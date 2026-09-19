@@ -1,0 +1,1501 @@
+task,sample_id,call_status,repeat_index,output_value
+extraction,EXT-01-3b14f3a6cd35,ok,1,null
+extraction,EXT-01-3b14f3a6cd35,ok,2,"""Minimum nurse-to-patient ratio of 1:4 versus other nurse-driven tools and nurse-management staffing methods/skill-mix patterns (more flexible staffing)"""
+extraction,EXT-01-3b14f3a6cd35,ok,3,"""Minimum nurse-to-patient ratio of 1:4 versus other nurse staffing/skill mix patterns or nurse-management staffing methods"""
+extraction,EXT-01-3e7effe3d288,ok,1,0.48
+extraction,EXT-01-3e7effe3d288,ok,2,0.48
+extraction,EXT-01-3e7effe3d288,ok,3,0.48
+extraction,EXT-01-4d3f8bc82b5e,ok,1,null
+extraction,EXT-01-4d3f8bc82b5e,ok,2,null
+extraction,EXT-01-4d3f8bc82b5e,ok,3,null
+extraction,EXT-01-4f22f8bf0a39,ok,1,459113.0
+extraction,EXT-01-4f22f8bf0a39,ok,2,"""459,113 patients and 111,342 nurses (403 hospitals)"""
+extraction,EXT-01-4f22f8bf0a39,ok,3,459113.0
+extraction,EXT-01-6c4628b565fa,ok,1,"""Patient (in-hospital) mortality; emotional exhaustion; job dissatisfaction; nurse turnover"""
+extraction,EXT-01-6c4628b565fa,ok,2,"""In-hospital (patient) mortality; emotional exhaustion; job dissatisfaction; nurse turnover"""
+extraction,EXT-01-6c4628b565fa,ok,3,"""in-hospital (patient) mortality; emotional exhaustion; job dissatisfaction; nurse turnover"""
+extraction,EXT-01-74ff18794044,ok,1,"""Switzerland; Canada (British Columbia)"""
+extraction,EXT-01-74ff18794044,ok,2,"""Canada"""
+extraction,EXT-01-74ff18794044,ok,3,"""Canada"""
+extraction,EXT-01-7896be00e53d,ok,1,null
+extraction,EXT-01-7896be00e53d,ok,2,null
+extraction,EXT-01-7896be00e53d,ok,3,null
+extraction,EXT-01-8169af27df40,ok,1,null
+extraction,EXT-01-8169af27df40,ok,2,null
+extraction,EXT-01-8169af27df40,ok,3,null
+extraction,EXT-01-83b7f91fb02b,ok,1,"""Overstaffing versus understaffing (different nurse-to-patient ratios)"""
+extraction,EXT-01-83b7f91fb02b,ok,2,"""Overstaffing versus understaffing (different nurse-to-patient ratios)"""
+extraction,EXT-01-83b7f91fb02b,ok,3,"""Overstaffing versus Understaffing (different nurse-to-patient ratios)"""
+extraction,EXT-01-930e194a7cab,ok,1,"""Population-based, cross-sectional, multicenter study"""
+extraction,EXT-01-930e194a7cab,ok,2,"""Population-based, cross-sectional, multicenter study"""
+extraction,EXT-01-930e194a7cab,ok,3,"""Population-based cross-sectional multicenter study"""
+extraction,EXT-01-be33396abce8,ok,1,"""Cross-sectional observational study (survey)"""
+extraction,EXT-01-be33396abce8,ok,2,"""Cross-sectional observational study"""
+extraction,EXT-01-be33396abce8,ok,3,"""Cross-sectional study"""
+extraction,EXT-01-c90084204630,ok,1,"""Nurse staffing (bed-to-nurse ratio: <2.5 vs ≥4.5) and nurse turnover rate (<12% vs ≥12%)"""
+extraction,EXT-01-c90084204630,ok,2,"""Nurse staffing (bed-to-nurse ratio: <2.5 vs ≥4.5) and nurse turnover rate (<12% vs ≥12%)"""
+extraction,EXT-01-c90084204630,ok,3,"""Nurse staffing (bed-to-nurse ratio categories: <2.5 vs ≥4.5) and nurse turnover rate (≥12% vs <12%)"""
+extraction,EXT-01-dea01b31ef80,ok,1,null
+extraction,EXT-01-dea01b31ef80,ok,2,null
+extraction,EXT-01-dea01b31ef80,ok,3,null
+extraction,EXT-01-e3532b460812,ok,1,null
+extraction,EXT-01-e3532b460812,ok,2,null
+extraction,EXT-01-e3532b460812,ok,3,null
+extraction,EXT-01-e8ff500847c7,ok,1,null
+extraction,EXT-01-e8ff500847c7,ok,2,null
+extraction,EXT-01-e8ff500847c7,ok,3,null
+extraction,EXT-01-ed5aa669382f,ok,1,"""Canada"""
+extraction,EXT-01-ed5aa669382f,ok,2,"""Canada"""
+extraction,EXT-01-ed5aa669382f,ok,3,"""Canada"""
+extraction,EXT-01-f3a986476ff8,ok,1,183085.0
+extraction,EXT-01-f3a986476ff8,ok,2,183085.0
+extraction,EXT-01-f3a986476ff8,ok,3,183085.0
+extraction,EXT-02-15ec72e1a207,ok,1,"""0.42-1.65"""
+extraction,EXT-02-15ec72e1a207,ok,2,"""0.42-1.65"""
+extraction,EXT-02-15ec72e1a207,ok,3,"""0.42-1.65"""
+extraction,EXT-02-2129103436b8,ok,1,null
+extraction,EXT-02-2129103436b8,ok,2,null
+extraction,EXT-02-2129103436b8,ok,3,null
+extraction,EXT-02-46fc406a6ab2,ok,1,"""Depression; Anxiety"""
+extraction,EXT-02-46fc406a6ab2,ok,2,"""Depression; Anxiety"""
+extraction,EXT-02-46fc406a6ab2,ok,3,"""Depression and anxiety (symptom reduction)"""
+extraction,EXT-02-52c29dd15375,ok,1,"""mindfulness-based therapy"""
+extraction,EXT-02-52c29dd15375,ok,2,"""Mindfulness-based therapy"""
+extraction,EXT-02-52c29dd15375,ok,3,"""mindfulness-based therapy"""
+extraction,EXT-02-80c57fb772f7,ok,1,null
+extraction,EXT-02-80c57fb772f7,ok,2,null
+extraction,EXT-02-80c57fb772f7,ok,3,null
+extraction,EXT-02-8f70af6699e9,ok,1,14073.0
+extraction,EXT-02-8f70af6699e9,ok,2,"""63 (Study 1); 14010 (Study 2)"""
+extraction,EXT-02-8f70af6699e9,ok,3,14073.0
+extraction,EXT-02-954b3d790b91,ok,1,null
+extraction,EXT-02-954b3d790b91,ok,2,null
+extraction,EXT-02-954b3d790b91,ok,3,null
+extraction,EXT-02-cd58cc5a4348,ok,1,"""Self-reported anxiety (Beck Anxiety Inventory); avoidance (Fear Questionnaire); difficulties in emotion regulation (Difficulties in Emotion Regulation Strategies); worry (Penn State Worry Questionnaire); mindfulness skills (Five Facet Mindfulness Questionnaire); rumination (Rumination on Sadness Scales)."""
+extraction,EXT-02-cd58cc5a4348,ok,2,"""Anxiety (Beck Anxiety Inventory); Avoidance (Fear Questionnaire); Difficulties in emotion regulation (Difficulties in Emotion Regulation Strategies); Worry (Penn State Worry Questionnaire); Mindfulness skills (Five Facet Mindfulness Questionnaire); Rumination (Rumination on Sadness Scales)"""
+extraction,EXT-02-cd58cc5a4348,ok,3,"""Anxiety (Beck Anxiety Inventory); avoidance (Fear Questionnaire); difficulties in emotion regulation (Difficulties in Emotion Regulation Strategies); worry (Penn State Worry Questionnaire); mindfulness skills (Five Facet Mindfulness Questionnaire); rumination (Rumination on Sadness Scales); treatment gains at 6-month follow-up"""
+extraction,EXT-02-fba15fa47f9a,ok,1,null
+extraction,EXT-02-fba15fa47f9a,ok,2,null
+extraction,EXT-02-fba15fa47f9a,ok,3,null
+extraction,EXT-02-fd3ed22c8a46,ok,1,null
+extraction,EXT-02-fd3ed22c8a46,ok,2,null
+extraction,EXT-02-fd3ed22c8a46,ok,3,null
+extraction,EXT-02-fe951dbb9109,ok,1,null
+extraction,EXT-02-fe951dbb9109,ok,2,null
+extraction,EXT-02-fe951dbb9109,ok,3,null
+extraction,EXT-03-01a9cb7284c9,ok,1,null
+extraction,EXT-03-01a9cb7284c9,ok,2,null
+extraction,EXT-03-01a9cb7284c9,ok,3,null
+extraction,EXT-03-0395076d83df,ok,1,"""SGLT-2 inhibitors; GLP-1 analogue"""
+extraction,EXT-03-0395076d83df,ok,2,"""SGLT-2 inhibitors; GLP-1 analogue (GLP-1 receptor agonists)"""
+extraction,EXT-03-0395076d83df,ok,3,"""SGLT-2 inhibitors, GLP-1 analogues"""
+extraction,EXT-03-0aed91fae3f9,ok,1,null
+extraction,EXT-03-0aed91fae3f9,ok,2,null
+extraction,EXT-03-0aed91fae3f9,ok,3,null
+extraction,EXT-03-0ffcb0ef0cdf,ok,1,1.0
+extraction,EXT-03-0ffcb0ef0cdf,ok,2,1.0
+extraction,EXT-03-0ffcb0ef0cdf,ok,3,1.0
+extraction,EXT-03-2c463888b2fa,ok,1,"""ACE inhibitors (ACEi); Angiotensin II receptor blockers (ARB); SGLT-2 inhibitors; nonsteroidal mineralocorticoid receptor antagonists (e.g., finerenone); steroidal mineralocorticoid receptor antagonists; low-dose aspirin; statins; GLP-1 receptor agonists (long-acting); metformin; renin inhibitors; ketoanalogues"""
+extraction,EXT-03-2c463888b2fa,ok,2,"""Angiotensin Converting Enzyme Inhibitors (ACEi), Angiotensin II Receptor Blockers (ARB), SGLT-2 inhibitors, finerenone (nonsteroidal mineralocorticoid receptor antagonist), steroidal mineralocorticoid receptor antagonists, metformin, long-acting GLP-1 receptor agonists, low-dose aspirin, statins, renin inhibitors, ketoanalogues"""
+extraction,EXT-03-2c463888b2fa,ok,3,"""Angiotensin Converting Enzyme Inhibitors (ACEi), Angiotensin II Receptor Blockers (ARB), renin inhibitors, SGLT-2 inhibitors, nonsteroidal mineralocorticoid receptor antagonists (e.g., finerenone), steroidal mineralocorticoid receptor antagonists, aspirin (low-dose), statins, long-acting GLP-1 receptor agonists, metformin, ketoanalogues"""
+extraction,EXT-03-3371d815fb4c,ok,1,3195.0
+extraction,EXT-03-3371d815fb4c,ok,2,3195.0
+extraction,EXT-03-3371d815fb4c,ok,3,3195.0
+extraction,EXT-03-3815dc5193a4,ok,1,"""Retrospective observational cohort study (two database cohort analyses)"""
+extraction,EXT-03-3815dc5193a4,ok,2,"""Observational cohort study (retrospective database cohort analyses)"""
+extraction,EXT-03-3815dc5193a4,ok,3,"""Two observational cohort analyses (retrospective cohort studies using administrative claims databases)"""
+extraction,EXT-03-416674a813bf,ok,1,null
+extraction,EXT-03-416674a813bf,ok,2,null
+extraction,EXT-03-416674a813bf,ok,3,null
+extraction,EXT-03-4556112b615b,ok,1,-14.0
+extraction,EXT-03-4556112b615b,ok,2,-14.0
+extraction,EXT-03-4556112b615b,ok,3,"""-14; 6; 1; -3"""
+extraction,EXT-03-511cc5a928b5,ok,1,0.93
+extraction,EXT-03-511cc5a928b5,ok,2,0.93
+extraction,EXT-03-511cc5a928b5,ok,3,0.93
+extraction,EXT-03-6123a5b6bcd3,ok,1,"""14; 34; 15; 26"""
+extraction,EXT-03-6123a5b6bcd3,ok,2,"""ELIXA: 14; LEADER: 34; SUSTAIN-6: 15; EXSCEL: 26"""
+extraction,EXT-03-6123a5b6bcd3,ok,3,34.0
+extraction,EXT-03-687a1bdc2d26,ok,1,null
+extraction,EXT-03-687a1bdc2d26,ok,2,null
+extraction,EXT-03-687a1bdc2d26,ok,3,null
+extraction,EXT-03-6f31e497f313,ok,1,"""empagliflozin; liraglutide; semaglutide"""
+extraction,EXT-03-6f31e497f313,ok,2,"""empagliflozin; liraglutide; semaglutide"""
+extraction,EXT-03-6f31e497f313,ok,3,"""empagliflozin; liraglutide; semaglutide"""
+extraction,EXT-03-74aaf5f1d00a,ok,1,null
+extraction,EXT-03-74aaf5f1d00a,ok,2,null
+extraction,EXT-03-74aaf5f1d00a,ok,3,null
+extraction,EXT-03-75a97af99a58,ok,1,32152.0
+extraction,EXT-03-75a97af99a58,ok,2,32152.0
+extraction,EXT-03-75a97af99a58,ok,3,32152.0
+extraction,EXT-03-7da72ad6c81a,ok,1,176.0
+extraction,EXT-03-7da72ad6c81a,ok,2,176.0
+extraction,EXT-03-7da72ad6c81a,ok,3,176.0
+extraction,EXT-03-905c9db636a2,ok,1,null
+extraction,EXT-03-905c9db636a2,ok,2,null
+extraction,EXT-03-905c9db636a2,ok,3,null
+extraction,EXT-03-9212eda1b6ab,ok,1,85143.0
+extraction,EXT-03-9212eda1b6ab,ok,2,85143.0
+extraction,EXT-03-9212eda1b6ab,ok,3,85143.0
+extraction,EXT-03-952a7220fb78,ok,1,1.325
+extraction,EXT-03-952a7220fb78,ok,2,1.325
+extraction,EXT-03-952a7220fb78,ok,3,1.325
+extraction,EXT-03-996328e92301,ok,1,null
+extraction,EXT-03-996328e92301,ok,2,null
+extraction,EXT-03-996328e92301,ok,3,null
+extraction,EXT-03-a24f3b902011,ok,1,null
+extraction,EXT-03-a24f3b902011,ok,2,null
+extraction,EXT-03-a24f3b902011,ok,3,null
+extraction,EXT-03-a2ad92ccfd2d,ok,1,null
+extraction,EXT-03-a2ad92ccfd2d,ok,2,null
+extraction,EXT-03-a2ad92ccfd2d,ok,3,null
+extraction,EXT-03-a966c137afcc,ok,1,null
+extraction,EXT-03-a966c137afcc,ok,2,1.5
+extraction,EXT-03-a966c137afcc,ok,3,null
+extraction,EXT-03-b12e96d27575,ok,1,null
+extraction,EXT-03-b12e96d27575,ok,2,null
+extraction,EXT-03-b12e96d27575,ok,3,null
+extraction,EXT-03-b8546f9becfc,ok,1,0.23
+extraction,EXT-03-b8546f9becfc,ok,2,0.23
+extraction,EXT-03-b8546f9becfc,ok,3,0.23
+extraction,EXT-03-bc690ed51bd1,ok,1,3.96
+extraction,EXT-03-bc690ed51bd1,ok,2,3.96
+extraction,EXT-03-bc690ed51bd1,ok,3,3.96
+extraction,EXT-03-c19c7dbae355,ok,1,null
+extraction,EXT-03-c19c7dbae355,ok,2,null
+extraction,EXT-03-c19c7dbae355,ok,3,null
+extraction,EXT-03-c1e9749d1431,ok,1,1.08
+extraction,EXT-03-c1e9749d1431,ok,2,1.08
+extraction,EXT-03-c1e9749d1431,ok,3,1.08
+extraction,EXT-03-c698d92d6890,ok,1,5.0
+extraction,EXT-03-c698d92d6890,ok,2,5.0
+extraction,EXT-03-c698d92d6890,ok,3,5.0
+extraction,EXT-03-d347430ed50e,ok,1,"""United States"""
+extraction,EXT-03-d347430ed50e,ok,2,null
+extraction,EXT-03-d347430ed50e,ok,3,null
+extraction,EXT-03-d361f499e4a9,ok,1,"""0.46–1.00"""
+extraction,EXT-03-d361f499e4a9,ok,2,"""0.46-1.00"""
+extraction,EXT-03-d361f499e4a9,ok,3,"""0.46-1.00"""
+extraction,EXT-03-d71666b67610,ok,1,0.94
+extraction,EXT-03-d71666b67610,ok,2,0.94
+extraction,EXT-03-d71666b67610,ok,3,0.94
+extraction,EXT-03-d93cbeb3ad18,ok,1,null
+extraction,EXT-03-d93cbeb3ad18,ok,2,null
+extraction,EXT-03-d93cbeb3ad18,ok,3,null
+extraction,EXT-03-e0b6682b4065,ok,1,null
+extraction,EXT-03-e0b6682b4065,ok,2,null
+extraction,EXT-03-e0b6682b4065,ok,3,null
+extraction,EXT-03-e76d263258dd,ok,1,null
+extraction,EXT-03-e76d263258dd,ok,2,null
+extraction,EXT-03-e76d263258dd,ok,3,null
+extraction,EXT-03-e85051d5d730,ok,1,"""Post hoc pooled analysis of randomized controlled trials"""
+extraction,EXT-03-e85051d5d730,ok,2,"""Post hoc pooled analysis"""
+extraction,EXT-03-e85051d5d730,ok,3,"""Post hoc pooled (exploratory) analysis of randomized controlled trials"""
+extraction,EXT-03-e92cb1d6a948,ok,1,"""3.8 and 2.1"""
+extraction,EXT-03-e92cb1d6a948,ok,2,"""3.8 and 2.1"""
+extraction,EXT-03-e92cb1d6a948,ok,3,"""3.8 and 2.1"""
+extraction,EXT-03-e994df94c0e6,ok,1,"""Retrospective observational cohort study (new-user comparative cohort)"""
+extraction,EXT-03-e994df94c0e6,ok,2,"""Observational retrospective new-user cohort study (comparative cohort)"""
+extraction,EXT-03-e994df94c0e6,ok,3,"""Retrospective observational cohort study (new-user comparative cohort)"""
+extraction,EXT-03-f8eead658f33,ok,1,null
+extraction,EXT-03-f8eead658f33,ok,2,null
+extraction,EXT-03-f8eead658f33,ok,3,null
+extraction,EXT-03-fa3a129f572b,ok,1,"""0.46-5.38 years"""
+extraction,EXT-03-fa3a129f572b,ok,2,"""0.46-5.38"""
+extraction,EXT-03-fa3a129f572b,ok,3,"""0.46-5.38"""
+extraction,EXT-04-08fb77f68ac9,ok,1,"""Retrospective diagnostic accuracy / model development and validation study"""
+extraction,EXT-04-08fb77f68ac9,ok,2,"""Retrospective diagnostic accuracy study (development and validation of a deep learning model)"""
+extraction,EXT-04-08fb77f68ac9,ok,3,"""Retrospective diagnostic accuracy study (development and validation of a convolutional neural network)"""
+extraction,EXT-04-0927c242c615,ok,1,null
+extraction,EXT-04-0927c242c615,ok,2,null
+extraction,EXT-04-0927c242c615,ok,3,null
+extraction,EXT-04-09d0594e9d04,ok,1,"""Diagnostic accuracy study (AI model development and validation)"""
+extraction,EXT-04-09d0594e9d04,ok,2,"""Model development and validation (diagnostic accuracy study)"""
+extraction,EXT-04-09d0594e9d04,ok,3,"""Diagnostic accuracy study (AI model development and validation)"""
+extraction,EXT-04-152ad96fc064,ok,1,"""0.980, 0.970, 0.999"""
+extraction,EXT-04-152ad96fc064,ok,2,"""0.980, 0.970, 0.999"""
+extraction,EXT-04-152ad96fc064,ok,3,"""0.980%, 0.970%, 0.999%"""
+extraction,EXT-04-2c76d2e8b830,ok,1,"""0.998, 0.994, 0.986, 0.970"""
+extraction,EXT-04-2c76d2e8b830,ok,2,0.998
+extraction,EXT-04-2c76d2e8b830,ok,3,"""0.998; 0.994; 0.986; 0.970"""
+extraction,EXT-04-310eeddfd082,ok,1,"""Convolutional neural networks (CNNs); specific architectures reported include DenseNet201, NASNetLarge, MobileNetV2 (trained eight pretrained CNNs)"""
+extraction,EXT-04-310eeddfd082,ok,2,"""Convolutional neural networks (CNNs); pretrained CNN architectures including DenseNet201, NASNetLarge, MobileNetV2"""
+extraction,EXT-04-310eeddfd082,ok,3,"""Convolutional neural networks (CNNs); specific architectures: DenseNet201, NASNetLarge, MobileNetV2"""
+extraction,EXT-04-323adbfdb612,ok,1,null
+extraction,EXT-04-323adbfdb612,ok,2,null
+extraction,EXT-04-323adbfdb612,ok,3,null
+extraction,EXT-04-39f3d9934a7c,ok,1,"""cough sound analysis (audio/acoustic analysis)"""
+extraction,EXT-04-39f3d9934a7c,ok,2,"""cough sound (audio/acoustic) analysis"""
+extraction,EXT-04-39f3d9934a7c,ok,3,null
+extraction,EXT-04-3d418d77d008,ok,1,"""Diagnostic accuracy study (retrospective development and validation of a deep learning model)"""
+extraction,EXT-04-3d418d77d008,ok,2,"""Retrospective diagnostic accuracy study (development and validation of a deep learning model)"""
+extraction,EXT-04-3d418d77d008,ok,3,"""Diagnostic accuracy study (development and validation of a deep learning model)"""
+extraction,EXT-04-46e3ad3d3b31,ok,1,"""Geometry-based Variational Autoencoder (VAE)"""
+extraction,EXT-04-46e3ad3d3b31,ok,2,"""geometry-based variational autoencoder (VAE)"""
+extraction,EXT-04-46e3ad3d3b31,ok,3,"""geometry-based variational autoencoder (VAE)"""
+extraction,EXT-04-49a224d22bc8,ok,1,"""Development, training and validation of a convolutional neural network (AI diagnostic accuracy study)"""
+extraction,EXT-04-49a224d22bc8,ok,2,"""Development, training and validation of a convolutional neural network (CNN)"""
+extraction,EXT-04-49a224d22bc8,ok,3,"""Diagnostic accuracy study (development and validation of a convolutional neural network)"""
+extraction,EXT-04-5bd55c2db886,ok,1,null
+extraction,EXT-04-5bd55c2db886,ok,2,null
+extraction,EXT-04-5bd55c2db886,ok,3,null
+extraction,EXT-04-5e75890e4f22,ok,1,null
+extraction,EXT-04-5e75890e4f22,ok,2,null
+extraction,EXT-04-5e75890e4f22,ok,3,null
+extraction,EXT-04-74e692ba4583,ok,1,"""Computational (machine learning) model development and validation study"""
+extraction,EXT-04-74e692ba4583,ok,2,"""Experimental computational study (development and evaluation of a hybrid CNN-PSO model)"""
+extraction,EXT-04-74e692ba4583,ok,3,"""Methodological/experimental study (algorithm development and evaluation using retrospective benchmark datasets)"""
+extraction,EXT-04-75c7b4e5ad53,ok,1,0.99
+extraction,EXT-04-75c7b4e5ad53,ok,2,0.99
+extraction,EXT-04-75c7b4e5ad53,ok,3,0.99
+extraction,EXT-04-797362e3c264,ok,1,"""0.899-0.955"""
+extraction,EXT-04-797362e3c264,ok,2,"""0.899 to 0.955"""
+extraction,EXT-04-797362e3c264,ok,3,"""0.899 to 0.955"""
+extraction,EXT-04-8017700eb531,ok,1,"""Development and validation study of a deep learning-based label-free cell classification (diagnostic accuracy / method development study)"""
+extraction,EXT-04-8017700eb531,ok,2,"""Diagnostic accuracy study (method development and validation)"""
+extraction,EXT-04-8017700eb531,ok,3,"""Methods development and experimental validation (diagnostic/accuracy study)"""
+extraction,EXT-04-8aefa4c7146a,ok,1,null
+extraction,EXT-04-8aefa4c7146a,ok,2,null
+extraction,EXT-04-8aefa4c7146a,ok,3,null
+extraction,EXT-04-998a3ac8cef0,ok,1,"""Retrospective diagnostic accuracy study (machine learning model development and validation)"""
+extraction,EXT-04-998a3ac8cef0,ok,2,"""Retrospective diagnostic accuracy study"""
+extraction,EXT-04-998a3ac8cef0,ok,3,"""Retrospective diagnostic accuracy study"""
+extraction,EXT-04-9b9d5e6abd7f,ok,1,null
+extraction,EXT-04-9b9d5e6abd7f,ok,2,null
+extraction,EXT-04-9b9d5e6abd7f,ok,3,null
+extraction,EXT-04-a22d04483be3,ok,1,null
+extraction,EXT-04-a22d04483be3,ok,2,null
+extraction,EXT-04-a22d04483be3,ok,3,null
+extraction,EXT-04-a53a27c3a390,ok,1,null
+extraction,EXT-04-a53a27c3a390,ok,2,null
+extraction,EXT-04-a53a27c3a390,ok,3,null
+extraction,EXT-04-a7e85f15d5de,ok,1,null
+extraction,EXT-04-a7e85f15d5de,ok,2,null
+extraction,EXT-04-a7e85f15d5de,ok,3,null
+extraction,EXT-04-b481b5181859,ok,1,null
+extraction,EXT-04-b481b5181859,ok,2,null
+extraction,EXT-04-b481b5181859,ok,3,null
+extraction,EXT-04-b4f9ff10b33a,ok,1,null
+extraction,EXT-04-b4f9ff10b33a,ok,2,null
+extraction,EXT-04-b4f9ff10b33a,ok,3,null
+extraction,EXT-04-b6ad8c86d58f,ok,1,null
+extraction,EXT-04-b6ad8c86d58f,ok,2,null
+extraction,EXT-04-b6ad8c86d58f,ok,3,"""above 0.94"""
+extraction,EXT-04-b6fb0a4f1e3a,ok,1,0.99
+extraction,EXT-04-b6fb0a4f1e3a,ok,2,"""0.99, 0.99, 0.955"""
+extraction,EXT-04-b6fb0a4f1e3a,ok,3,0.99
+extraction,EXT-04-b9613c15090e,ok,1,"""98.6%, 98.6%, 99.4%"""
+extraction,EXT-04-b9613c15090e,ok,2,"""98.6, 98.6, 99.4"""
+extraction,EXT-04-b9613c15090e,ok,3,"""98.6, 98.6, 99.4"""
+extraction,EXT-04-ce324f7330ec,ok,1,null
+extraction,EXT-04-ce324f7330ec,ok,2,null
+extraction,EXT-04-ce324f7330ec,ok,3,null
+extraction,EXT-04-d065628e8133,ok,1,"""Segmentation and classification (differentiation of malignant vs benign pleural effusion using CT images)"""
+extraction,EXT-04-d065628e8133,ok,2,"""Segmentation and binary classification (differentiation of malignant vs benign pleural effusion)"""
+extraction,EXT-04-d065628e8133,ok,3,"""Segmentation and classification (differentiation of benign vs malignant pleural effusion)"""
+extraction,EXT-04-d43c2d3b09bf,ok,1,"""Development and validation of a diagnostic machine learning model (diagnostic accuracy study)"""
+extraction,EXT-04-d43c2d3b09bf,ok,2,"""Diagnostic accuracy study (machine learning model development and validation)"""
+extraction,EXT-04-d43c2d3b09bf,ok,3,"""Diagnostic accuracy study (model development and validation)"""
+extraction,EXT-04-d5dcf9052ad5,ok,1,"""Pap-stained cervical cytology images (Pap smear and liquid-based cytology; single-cell and whole-slide microscopy images)"""
+extraction,EXT-04-d5dcf9052ad5,ok,2,"""Pap smear (Pap-stained cytology) and Liquid-Based Cytology (LBC) images (single-cell and whole-slide cytology images)"""
+extraction,EXT-04-d5dcf9052ad5,ok,3,"""Pap smear (Pap-stained cervical cytology) images"""
+extraction,EXT-04-e1ab37341e56,ok,1,0.957
+extraction,EXT-04-e1ab37341e56,ok,2,0.957
+extraction,EXT-04-e1ab37341e56,ok,3,0.957
+extraction,EXT-04-e5695d5ff84b,ok,1,"""0.89-0.96"""
+extraction,EXT-04-e5695d5ff84b,ok,2,"""0.89-0.96"""
+extraction,EXT-04-e5695d5ff84b,ok,3,"""0.89-0.96"""
+extraction,EXT-04-e57014208fe7,ok,1,null
+extraction,EXT-04-e57014208fe7,ok,2,null
+extraction,EXT-04-e57014208fe7,ok,3,null
+extraction,EXT-04-e950b319e821,ok,1,"""Diagnostic accuracy study (development of a deep learning model for tumor detection/classification)"""
+extraction,EXT-04-e950b319e821,ok,2,"""Diagnostic accuracy study (machine learning model development and evaluation using a publicly available MRI dataset)"""
+extraction,EXT-04-e950b319e821,ok,3,"""Diagnostic accuracy study (algorithm development and validation)"""
+extraction,EXT-04-f3f150bd4d8e,ok,1,"""Pulmonary function tests (PFTs)"""
+extraction,EXT-04-f3f150bd4d8e,ok,2,null
+extraction,EXT-04-f3f150bd4d8e,ok,3,null
+extraction,EXT-04-f9c32ee363c5,ok,1,"""Diagnostic accuracy study (machine learning model development and internal validation)"""
+extraction,EXT-04-f9c32ee363c5,ok,2,"""Diagnostic accuracy study (development/validation of a machine-learning diagnostic test)"""
+extraction,EXT-04-f9c32ee363c5,ok,3,"""Diagnostic accuracy study (machine learning model development and validation)"""
+extraction,EXT-05-02b9ad7f99ec,ok,1,null
+extraction,EXT-05-02b9ad7f99ec,ok,2,"""Literature review"""
+extraction,EXT-05-02b9ad7f99ec,ok,3,null
+extraction,EXT-05-18ec989334c2,ok,1,null
+extraction,EXT-05-18ec989334c2,ok,2,null
+extraction,EXT-05-18ec989334c2,ok,3,null
+extraction,EXT-05-1f69a3fc7676,ok,1,"""Enrollment; Attendance; Test scores (learning)"""
+extraction,EXT-05-1f69a3fc7676,ok,2,"""Enrollment; Attendance; Test scores (learning outcomes)"""
+extraction,EXT-05-1f69a3fc7676,ok,3,"""Enrollment; Attendance; Test scores (learning)"""
+extraction,EXT-05-2396170d23fc,ok,1,3360.0
+extraction,EXT-05-2396170d23fc,ok,2,3360.0
+extraction,EXT-05-2396170d23fc,ok,3,3360.0
+extraction,EXT-05-244fbbc6839c,ok,1,"""Samata intervention"""
+extraction,EXT-05-244fbbc6839c,ok,2,"""Samata intervention"""
+extraction,EXT-05-244fbbc6839c,ok,3,"""Samata intervention"""
+extraction,EXT-05-441c3deeedc7,ok,1,"""Acao Jovem"""
+extraction,EXT-05-441c3deeedc7,ok,2,"""Acao Jovem"""
+extraction,EXT-05-441c3deeedc7,ok,3,"""Ação Jovem (Acao Jovem)"""
+extraction,EXT-05-4dbf23906104,ok,1,5.5
+extraction,EXT-05-4dbf23906104,ok,2,5.5
+extraction,EXT-05-4dbf23906104,ok,3,5.5
+extraction,EXT-05-5820ab3be0b8,ok,1,"""Tekopor (conditional cash transfer program in Paraguay)"""
+extraction,EXT-05-5820ab3be0b8,ok,2,"""Tekopor (Tekoporã / Tekopora)"""
+extraction,EXT-05-5820ab3be0b8,ok,3,"""Tekopor"""
+extraction,EXT-05-68430b2e7c32,ok,1,1481.0
+extraction,EXT-05-68430b2e7c32,ok,2,1481.0
+extraction,EXT-05-68430b2e7c32,ok,3,1481.0
+extraction,EXT-05-694aebc6fb78,ok,1,35.0
+extraction,EXT-05-694aebc6fb78,ok,2,35.0
+extraction,EXT-05-694aebc6fb78,ok,3,35.0
+extraction,EXT-05-6d017cb0d2f3,ok,1,"""Quasi-experimental (observational) study exploiting regional variation in program take-up across municipalities"""
+extraction,EXT-05-6d017cb0d2f3,ok,2,"""Quasi-experimental (policy evaluation exploiting regional variation / natural experiment)"""
+extraction,EXT-05-6d017cb0d2f3,ok,3,"""Quasi-experimental study (observational, exploiting regional variation in program take-up across municipalities)"""
+extraction,EXT-05-6e3e7f2a2f10,ok,1,0.34
+extraction,EXT-05-6e3e7f2a2f10,ok,2,0.34
+extraction,EXT-05-6e3e7f2a2f10,ok,3,0.34
+extraction,EXT-05-6fdb150ab941,ok,1,null
+extraction,EXT-05-6fdb150ab941,ok,2,null
+extraction,EXT-05-6fdb150ab941,ok,3,null
+extraction,EXT-05-7b5c8eed08ac,ok,1,"""43%"""
+extraction,EXT-05-7b5c8eed08ac,ok,2,43.0
+extraction,EXT-05-7b5c8eed08ac,ok,3,43.0
+extraction,EXT-05-7e15f192e386,ok,1,null
+extraction,EXT-05-7e15f192e386,ok,2,null
+extraction,EXT-05-7e15f192e386,ok,3,null
+extraction,EXT-05-8831ecc61e3e,ok,1,"""Quasi-experimental (instrumental variables)"""
+extraction,EXT-05-8831ecc61e3e,ok,2,"""Quasi-experimental (instrumental variables) analysis of observational household data"""
+extraction,EXT-05-8831ecc61e3e,ok,3,"""Observational study (quasi-experimental analysis using instrumental variables)"""
+extraction,EXT-05-a87e338997f9,ok,1,"""Field experiment (randomized controlled trial)"""
+extraction,EXT-05-a87e338997f9,ok,2,"""Field experiment (randomized controlled trial)"""
+extraction,EXT-05-a87e338997f9,ok,3,"""Randomized field experiment"""
+extraction,EXT-05-b76c259f0d5c,ok,1,2147.0
+extraction,EXT-05-b76c259f0d5c,ok,2,2147.0
+extraction,EXT-05-b76c259f0d5c,ok,3,2147.0
+extraction,EXT-05-d6f9f4c32598,ok,1,0.63
+extraction,EXT-05-d6f9f4c32598,ok,2,0.63
+extraction,EXT-05-d6f9f4c32598,ok,3,0.63
+extraction,EXT-05-e4501ffb93fa,ok,1,"""Grade Six Achievement Test (GSAT) performance (test scores) and placement in better secondary schools (national school ranking percentile)"""
+extraction,EXT-05-e4501ffb93fa,ok,2,"""GSAT test performance (student GSAT scores); Secondary school placement (national school ranking percentile based on placed students' GSAT scores)"""
+extraction,EXT-05-e4501ffb93fa,ok,3,"""Grade Six Achievement Test (GSAT) scores; placement in secondary schools (percentile rank in a national school ranking)"""
+extraction,EXT-05-e78e614068e1,ok,1,null
+extraction,EXT-05-e78e614068e1,ok,2,"""Philippines"""
+extraction,EXT-05-e78e614068e1,ok,3,"""Philippines"""
+extraction,EXT-05-f9bfe0b95a07,ok,1,"""Mexico"""
+extraction,EXT-05-f9bfe0b95a07,ok,2,"""Mexico"""
+extraction,EXT-05-f9bfe0b95a07,ok,3,"""Mexico"""
+extraction,EXT-05-fc91c259dd10,ok,1,null
+extraction,EXT-05-fc91c259dd10,ok,2,null
+extraction,EXT-05-fc91c259dd10,ok,3,null
+extraction,EXT-06-1d233be8ea42,ok,1,"""139, 413"""
+extraction,EXT-06-1d233be8ea42,ok,2,"""139 and 413"""
+extraction,EXT-06-1d233be8ea42,ok,3,552.0
+extraction,EXT-06-2db25c8bb412,ok,1,"""Depression; Anxiety"""
+extraction,EXT-06-2db25c8bb412,ok,2,"""Depression; Anxiety"""
+extraction,EXT-06-2db25c8bb412,ok,3,"""Depression; Anxiety"""
+extraction,EXT-06-3a96c50e327e,ok,1,"""Cross-sectional study"""
+extraction,EXT-06-3a96c50e327e,ok,2,"""Cross-sectional study"""
+extraction,EXT-06-3a96c50e327e,ok,3,"""Cross-sectional study"""
+extraction,EXT-06-3cd6ea7118fd,ok,1,1.45
+extraction,EXT-06-3cd6ea7118fd,ok,2,1.45
+extraction,EXT-06-3cd6ea7118fd,ok,3,1.45
+extraction,EXT-06-4703f98477d9,ok,1,0.32
+extraction,EXT-06-4703f98477d9,ok,2,0.32
+extraction,EXT-06-4703f98477d9,ok,3,0.32
+extraction,EXT-06-5c903d300ffa,ok,1,41.0
+extraction,EXT-06-5c903d300ffa,ok,2,41.0
+extraction,EXT-06-5c903d300ffa,ok,3,41.0
+extraction,EXT-06-5d2087418c99,ok,1,"""Facebook and other social networking sites"""
+extraction,EXT-06-5d2087418c99,ok,2,"""Facebook and other social networking sites"""
+extraction,EXT-06-5d2087418c99,ok,3,"""Facebook and other social networks (social networking sites)"""
+extraction,EXT-06-620a8e475878,ok,1,null
+extraction,EXT-06-620a8e475878,ok,2,null
+extraction,EXT-06-620a8e475878,ok,3,null
+extraction,EXT-06-67e87c1a46ac,ok,1,"""18-20 years"""
+extraction,EXT-06-67e87c1a46ac,ok,2,"""18-20 years old"""
+extraction,EXT-06-67e87c1a46ac,ok,3,"""18-20 years old"""
+extraction,EXT-06-68c0dfc0be26,ok,1,"""Video gaming; social media; internet use"""
+extraction,EXT-06-68c0dfc0be26,ok,2,"""Video gaming, social media, and internet use (screen-based devices)"""
+extraction,EXT-06-68c0dfc0be26,ok,3,"""video gaming; social media; internet use"""
+extraction,EXT-06-6f020cee8292,ok,1,null
+extraction,EXT-06-6f020cee8292,ok,2,null
+extraction,EXT-06-6f020cee8292,ok,3,null
+extraction,EXT-06-7528ed36aea0,ok,1,"""Australia"""
+extraction,EXT-06-7528ed36aea0,ok,2,"""Australia"""
+extraction,EXT-06-7528ed36aea0,ok,3,"""Australia"""
+extraction,EXT-06-7b4043c6ad89,ok,1,null
+extraction,EXT-06-7b4043c6ad89,ok,2,null
+extraction,EXT-06-7b4043c6ad89,ok,3,null
+extraction,EXT-06-839d3b5abf4a,ok,1,-0.31
+extraction,EXT-06-839d3b5abf4a,ok,2,-0.31
+extraction,EXT-06-839d3b5abf4a,ok,3,-0.31
+extraction,EXT-06-89f897b6c350,ok,1,"""Cross-sectional study"""
+extraction,EXT-06-89f897b6c350,ok,2,"""Cross-sectional study"""
+extraction,EXT-06-89f897b6c350,ok,3,"""Cross-sectional study"""
+extraction,EXT-06-9fc3ae002429,ok,1,"""Self-esteem (self-image)"""
+extraction,EXT-06-9fc3ae002429,ok,2,"""Self-esteem (self-image)"""
+extraction,EXT-06-9fc3ae002429,ok,3,"""Self-esteem (self-image)"""
+extraction,EXT-06-a424e9aa6b37,ok,1,null
+extraction,EXT-06-a424e9aa6b37,ok,2,null
+extraction,EXT-06-a424e9aa6b37,ok,3,null
+extraction,EXT-06-c5046c35f1c1,ok,1,null
+extraction,EXT-06-c5046c35f1c1,ok,2,null
+extraction,EXT-06-c5046c35f1c1,ok,3,null
+extraction,EXT-06-cfd084389dc1,ok,1,"""Facebook, Instagram, Twitter, TikTok"""
+extraction,EXT-06-cfd084389dc1,ok,2,"""Facebook, Instagram, Twitter, TikTok"""
+extraction,EXT-06-cfd084389dc1,ok,3,"""Facebook, Instagram, Twitter, TikTok"""
+extraction,EXT-06-e1976a0accda,ok,1,"""young people (16–30 years)"""
+extraction,EXT-06-e1976a0accda,ok,2,"""young people (16–30 years)"""
+extraction,EXT-06-e1976a0accda,ok,3,"""young people (16-30 years)"""
+extraction,EXT-07-05296fa6662c,ok,1,null
+extraction,EXT-07-05296fa6662c,ok,2,null
+extraction,EXT-07-05296fa6662c,ok,3,null
+extraction,EXT-07-167f3ad9e708,ok,1,106.0
+extraction,EXT-07-167f3ad9e708,ok,2,106.0
+extraction,EXT-07-167f3ad9e708,ok,3,106.0
+extraction,EXT-07-2b9f3517a9b9,ok,1,420.0
+extraction,EXT-07-2b9f3517a9b9,ok,2,420.0
+extraction,EXT-07-2b9f3517a9b9,ok,3,420.0
+extraction,EXT-07-47b793b956cd,ok,1,1275.0
+extraction,EXT-07-47b793b956cd,ok,2,1275.0
+extraction,EXT-07-47b793b956cd,ok,3,1275.0
+extraction,EXT-07-612d3b4c739b,ok,1,"""11%"""
+extraction,EXT-07-612d3b4c739b,ok,2,"""11%"""
+extraction,EXT-07-612d3b4c739b,ok,3,11.0
+extraction,EXT-07-617056d489da,ok,1,"""United States"""
+extraction,EXT-07-617056d489da,ok,2,"""United States"""
+extraction,EXT-07-617056d489da,ok,3,"""United States"""
+extraction,EXT-07-684ad565297c,ok,1,"""England and Wales"""
+extraction,EXT-07-684ad565297c,ok,2,"""England and Wales"""
+extraction,EXT-07-684ad565297c,ok,3,"""England and Wales"""
+extraction,EXT-07-6f441aca3027,ok,1,24.0
+extraction,EXT-07-6f441aca3027,ok,2,24.0
+extraction,EXT-07-6f441aca3027,ok,3,24.0
+extraction,EXT-07-8d142e3f52b0,ok,1,"""Restorative justice (mediasi penal) applied for cases with minor injuries and material loss; serious injury and fatality cases proceed to prosecution (not eligible for mediasi penal); restorative justice used as a mitigating factor in sentencing."""
+extraction,EXT-07-8d142e3f52b0,ok,2,"""Mediasi penal dengan pendekatan restorative justice diterapkan hanya untuk kasus kecelakaan dengan luka ringan dan kerugian materil; kasus yang menimbulkan korban meninggal dunia atau luka berat tetap diproses ke pengadilan dan restorative justice hanya menjadi pertimbangan untuk meringankan pidana."""
+extraction,EXT-07-8d142e3f52b0,ok,3,"""Restorative justice (mediasi penal) is applied only for cases with minor injuries and material loss; cases causing death or serious injury proceed to prosecution (restorative justice may only be considered for sentencing mitigation)."""
+extraction,EXT-07-9d256c233083,ok,1,513.0
+extraction,EXT-07-9d256c233083,ok,2,513.0
+extraction,EXT-07-9d256c233083,ok,3,513.0
+extraction,EXT-07-a05dec363006,ok,1,null
+extraction,EXT-07-a05dec363006,ok,2,null
+extraction,EXT-07-a05dec363006,ok,3,null
+extraction,EXT-07-a582f45d1759,ok,1,null
+extraction,EXT-07-a582f45d1759,ok,2,null
+extraction,EXT-07-a582f45d1759,ok,3,null
+extraction,EXT-07-c15fe9c55253,ok,1,null
+extraction,EXT-07-c15fe9c55253,ok,2,null
+extraction,EXT-07-c15fe9c55253,ok,3,null
+extraction,EXT-07-cf1fdf987616,ok,1,null
+extraction,EXT-07-cf1fdf987616,ok,2,null
+extraction,EXT-07-cf1fdf987616,ok,3,null
+extraction,EXT-07-d95ac826bd7c,ok,1,"""Narrative literature review"""
+extraction,EXT-07-d95ac826bd7c,ok,2,"""Narrative review"""
+extraction,EXT-07-d95ac826bd7c,ok,3,"""Narrative literature review"""
+extraction,EXT-07-e8935ce627e3,ok,1,6.0
+extraction,EXT-07-e8935ce627e3,ok,2,6.0
+extraction,EXT-07-e8935ce627e3,ok,3,6.0
+extraction,EXT-07-ef2ab604e3f3,ok,1,"""United States"""
+extraction,EXT-07-ef2ab604e3f3,ok,2,"""United States"""
+extraction,EXT-07-ef2ab604e3f3,ok,3,"""United States"""
+extraction,EXT-07-f86ab4ecb079,ok,1,null
+extraction,EXT-07-f86ab4ecb079,ok,2,null
+extraction,EXT-07-f86ab4ecb079,ok,3,null
+extraction,EXT-07-fd0246db9354,ok,1,null
+extraction,EXT-07-fd0246db9354,ok,2,null
+extraction,EXT-07-fd0246db9354,ok,3,null
+extraction,EXT-08-0403aabbd690,ok,1,null
+extraction,EXT-08-0403aabbd690,ok,2,null
+extraction,EXT-08-0403aabbd690,ok,3,null
+extraction,EXT-08-0661122c8f18,ok,1,"""2.9% to 4.5%"""
+extraction,EXT-08-0661122c8f18,ok,2,"""2.9% to 4.5%"""
+extraction,EXT-08-0661122c8f18,ok,3,"""2.9% to 4.5%"""
+extraction,EXT-08-128c043c7510,ok,1,null
+extraction,EXT-08-128c043c7510,ok,2,null
+extraction,EXT-08-128c043c7510,ok,3,"""36 countries (cross-country analysis)"""
+extraction,EXT-08-176ad75497e6,ok,1,null
+extraction,EXT-08-176ad75497e6,ok,2,null
+extraction,EXT-08-176ad75497e6,ok,3,null
+extraction,EXT-08-1773230962a1,ok,1,"""Observational longitudinal cross-country panel study (panel data analysis)"""
+extraction,EXT-08-1773230962a1,ok,2,"""Observational longitudinal panel study (cross-country panel analysis of 19 OECD countries, 2014–2018)"""
+extraction,EXT-08-1773230962a1,ok,3,"""Observational cross-country panel (longitudinal) study"""
+extraction,EXT-08-27beb7121ac0,ok,1,"""2007-2018"""
+extraction,EXT-08-27beb7121ac0,ok,2,"""2007-2018"""
+extraction,EXT-08-27beb7121ac0,ok,3,"""2007-2018"""
+extraction,EXT-08-289c5c2b8fbe,ok,1,6.4
+extraction,EXT-08-289c5c2b8fbe,ok,2,6.4
+extraction,EXT-08-289c5c2b8fbe,ok,3,6.4
+extraction,EXT-08-2c21409a6c07,ok,1,"""27 countries"""
+extraction,EXT-08-2c21409a6c07,ok,2,"""27 countries"""
+extraction,EXT-08-2c21409a6c07,ok,3,"""27 countries"""
+extraction,EXT-08-2c3ee8f1a744,ok,1,"""Germany, Norway, the Netherlands, Belgium"""
+extraction,EXT-08-2c3ee8f1a744,ok,2,"""Germany, Norway, the Netherlands, Belgium"""
+extraction,EXT-08-2c3ee8f1a744,ok,3,"""Germany, Norway, the Netherlands, Belgium"""
+extraction,EXT-08-362c635b55e3,ok,1,"""gender pay gap (difference in average earnings between men and women)"""
+extraction,EXT-08-362c635b55e3,ok,2,"""Average earnings (gender pay gap measured as the difference in average earnings of men and women)"""
+extraction,EXT-08-362c635b55e3,ok,3,"""gender pay gap (difference in average earnings of men and women)"""
+extraction,EXT-08-3b971226cd11,ok,1,null
+extraction,EXT-08-3b971226cd11,ok,2,null
+extraction,EXT-08-3b971226cd11,ok,3,"""21 advanced countries (Luxembourg Income Study)"""
+extraction,EXT-08-41c270b428cf,ok,1,"""2000-2013"""
+extraction,EXT-08-41c270b428cf,ok,2,null
+extraction,EXT-08-41c270b428cf,ok,3,2013.0
+extraction,EXT-08-4570fbe12d14,ok,1,null
+extraction,EXT-08-4570fbe12d14,ok,2,null
+extraction,EXT-08-4570fbe12d14,ok,3,"""European Union (EU member countries)"""
+extraction,EXT-08-47c67df9f969,ok,1,"""20%–28%"""
+extraction,EXT-08-47c67df9f969,ok,2,"""20% to 28%"""
+extraction,EXT-08-47c67df9f969,ok,3,"""20-28%"""
+extraction,EXT-08-49a4c37d57df,ok,1,null
+extraction,EXT-08-49a4c37d57df,ok,2,null
+extraction,EXT-08-49a4c37d57df,ok,3,null
+extraction,EXT-08-4cbacf67c9fb,ok,1,null
+extraction,EXT-08-4cbacf67c9fb,ok,2,null
+extraction,EXT-08-4cbacf67c9fb,ok,3,null
+extraction,EXT-08-512737a36db8,ok,1,"""Meta-analysis (systematic quantitative review)"""
+extraction,EXT-08-512737a36db8,ok,2,"""meta-analysis (systematic quantitative review)"""
+extraction,EXT-08-512737a36db8,ok,3,"""Meta-analysis (systematic quantitative review)"""
+extraction,EXT-08-625f705407b3,ok,1,null
+extraction,EXT-08-625f705407b3,ok,2,null
+extraction,EXT-08-625f705407b3,ok,3,2021.0
+extraction,EXT-08-6912b4b58308,ok,1,"""2010-2019"""
+extraction,EXT-08-6912b4b58308,ok,2,"""2010-2019"""
+extraction,EXT-08-6912b4b58308,ok,3,"""2010-2019"""
+extraction,EXT-08-763a4eaec94b,ok,1,"""Denmark, Finland, Germany, Japan, South Korea"""
+extraction,EXT-08-763a4eaec94b,ok,2,"""Denmark, Finland, Germany, Japan, South Korea"""
+extraction,EXT-08-763a4eaec94b,ok,3,"""Denmark, Finland, Germany, Japan, South Korea"""
+extraction,EXT-08-7c1e29978501,ok,1,"""2012-2022"""
+extraction,EXT-08-7c1e29978501,ok,2,"""2012–2022"""
+extraction,EXT-08-7c1e29978501,ok,3,"""2012–2022"""
+extraction,EXT-08-80394914a590,ok,1,null
+extraction,EXT-08-80394914a590,ok,2,null
+extraction,EXT-08-80394914a590,ok,3,null
+extraction,EXT-08-86300d76090b,ok,1,"""percentage of average female earnings (percent of average females' earnings)"""
+extraction,EXT-08-86300d76090b,ok,2,"""Percentage of average females' earnings"""
+extraction,EXT-08-86300d76090b,ok,3,"""Percentage of average females' earnings (gap expressed as % of average female earnings)"""
+extraction,EXT-08-8877a115ae9c,ok,1,null
+extraction,EXT-08-8877a115ae9c,ok,2,null
+extraction,EXT-08-8877a115ae9c,ok,3,null
+extraction,EXT-08-8d15ceec2e12,ok,1,"""Labour market"""
+extraction,EXT-08-8d15ceec2e12,ok,2,"""Labour/Employment"""
+extraction,EXT-08-8d15ceec2e12,ok,3,"""Labour market"""
+extraction,EXT-08-9569682dbef8,ok,1,2018.0
+extraction,EXT-08-9569682dbef8,ok,2,2018.0
+extraction,EXT-08-9569682dbef8,ok,3,2018.0
+extraction,EXT-08-9acd1f8c7df1,ok,1,"""Australia, France, Japan, Britain"""
+extraction,EXT-08-9acd1f8c7df1,ok,2,"""Australia, France, Japan, Britain"""
+extraction,EXT-08-9acd1f8c7df1,ok,3,"""Australia, France, Japan, Britain"""
+extraction,EXT-08-9e23ac053d00,ok,1,"""Eight European countries (European countries)"""
+extraction,EXT-08-9e23ac053d00,ok,2,"""eight European countries"""
+extraction,EXT-08-9e23ac053d00,ok,3,null
+extraction,EXT-08-aa6fba7298de,ok,1,null
+extraction,EXT-08-aa6fba7298de,ok,2,null
+extraction,EXT-08-aa6fba7298de,ok,3,null
+extraction,EXT-08-b6d41cdf5e51,ok,1,"""2004-2014"""
+extraction,EXT-08-b6d41cdf5e51,ok,2,"""2004-2014"""
+extraction,EXT-08-b6d41cdf5e51,ok,3,"""2004-2014"""
+extraction,EXT-08-b8bbfd78e2bf,ok,1,15.0
+extraction,EXT-08-b8bbfd78e2bf,ok,2,15.0
+extraction,EXT-08-b8bbfd78e2bf,ok,3,15.0
+extraction,EXT-08-ba5070c57678,ok,1,"""Cross-sectional comparative observational study (secondary analysis of LIS Wave 5 data)"""
+extraction,EXT-08-ba5070c57678,ok,2,"""Cross-sectional comparative observational study (secondary analysis of cross-sectional survey data from LIS Wave 5)"""
+extraction,EXT-08-ba5070c57678,ok,3,"""Cross-sectional comparative observational study (secondary analysis of Wave 5 LIS data, 2000/2001, multi-country)"""
+extraction,EXT-08-bc6981a0a6a9,ok,1,"""Cross-sectional observational study (secondary analysis of the 2010 European Social Survey; cross-national comparative survey analysis)"""
+extraction,EXT-08-bc6981a0a6a9,ok,2,"""Cross-sectional observational study (secondary analysis of the 2010 European Social Survey)"""
+extraction,EXT-08-bc6981a0a6a9,ok,3,"""Cross-sectional observational study (secondary analysis of 2010 European Social Survey)"""
+extraction,EXT-08-cc774269b88b,ok,1,null
+extraction,EXT-08-cc774269b88b,ok,2,null
+extraction,EXT-08-cc774269b88b,ok,3,null
+extraction,EXT-08-d2d5723c076e,ok,1,"""Germany, France, Italy, Spain, United Kingdom"""
+extraction,EXT-08-d2d5723c076e,ok,2,"""Germany, France, Italy, Spain, United Kingdom"""
+extraction,EXT-08-d2d5723c076e,ok,3,"""Germany; France; Italy; Spain; UK"""
+extraction,EXT-08-d5a3f5c850da,ok,1,"""Repeated cross-sectional observational study (secondary data analysis)"""
+extraction,EXT-08-d5a3f5c850da,ok,2,"""Secondary analysis of longitudinal/repeated cross-sectional observational data (analysis of Luxembourg Income Study data, 1973–2013, across 18 countries)"""
+extraction,EXT-08-d5a3f5c850da,ok,3,"""Observational study — repeated cross-sectional/longitudinal analysis (secondary analysis of Luxembourg Income Study, 1973–2013)"""
+extraction,EXT-08-e267b7a3cc65,ok,1,"""Comparative cross-country microsimulation modeling study (EUROMOD tax-benefit microsimulation)"""
+extraction,EXT-08-e267b7a3cc65,ok,2,"""Microsimulation modelling study (comparative cross-country analysis)"""
+extraction,EXT-08-e267b7a3cc65,ok,3,"""Microsimulation modeling study (EUROMOD tax-benefit microsimulation)"""
+extraction,EXT-08-e799eb9a2b38,ok,1,"""Australia, Canada, the United Kingdom, the United States, Germany, Finland, Sweden"""
+extraction,EXT-08-e799eb9a2b38,ok,2,"""Australia; Canada; United Kingdom; United States; Germany; Finland; Sweden"""
+extraction,EXT-08-e799eb9a2b38,ok,3,"""Australia, Canada, United Kingdom, United States, Germany, Finland, Sweden"""
+extraction,EXT-08-ef2470e14401,ok,1,"""Quasi-experimental (natural experiment exploiting policy reforms)"""
+extraction,EXT-08-ef2470e14401,ok,2,"""Quasi-experimental (natural experiment exploiting policy reforms)"""
+extraction,EXT-08-ef2470e14401,ok,3,"""Quasi-experimental (natural experiment / policy reform exploitation)"""
+extraction,EXT-08-f5aac0eeec6b,ok,1,6048.0
+extraction,EXT-08-f5aac0eeec6b,ok,2,6048.0
+extraction,EXT-08-f5aac0eeec6b,ok,3,6048.0
+extraction,EXT-09-06dc086cca03,ok,1,null
+extraction,EXT-09-06dc086cca03,ok,2,null
+extraction,EXT-09-06dc086cca03,ok,3,null
+extraction,EXT-09-0905a5c68a7c,ok,1,"""students (adolescents; mean age 17.75 years)"""
+extraction,EXT-09-0905a5c68a7c,ok,2,"""students"""
+extraction,EXT-09-0905a5c68a7c,ok,3,"""students (mean age 17.75 years)"""
+extraction,EXT-09-21d1da1f3527,ok,1,null
+extraction,EXT-09-21d1da1f3527,ok,2,"""blended learning program"""
+extraction,EXT-09-21d1da1f3527,ok,3,"""Blended learning program"""
+extraction,EXT-09-245442873dca,ok,1,null
+extraction,EXT-09-245442873dca,ok,2,null
+extraction,EXT-09-245442873dca,ok,3,null
+extraction,EXT-09-2882e874b33b,ok,1,7.695
+extraction,EXT-09-2882e874b33b,ok,2,7.695
+extraction,EXT-09-2882e874b33b,ok,3,7.695
+extraction,EXT-09-2933dfbd2118,ok,1,0.25
+extraction,EXT-09-2933dfbd2118,ok,2,25.0
+extraction,EXT-09-2933dfbd2118,ok,3,25.0
+extraction,EXT-09-300473af1c2e,ok,1,null
+extraction,EXT-09-300473af1c2e,ok,2,null
+extraction,EXT-09-300473af1c2e,ok,3,null
+extraction,EXT-09-397892f527bd,ok,1,50.0
+extraction,EXT-09-397892f527bd,ok,2,50.0
+extraction,EXT-09-397892f527bd,ok,3,50.0
+extraction,EXT-09-56c2a664a743,ok,1,"""Higher education students (n=52) enrolled in an Artificial Intelligence course at a large urban college in Jordan"""
+extraction,EXT-09-56c2a664a743,ok,2,"""students who attended an Artificial Intelligent course at a large urban college in Jordan"""
+extraction,EXT-09-56c2a664a743,ok,3,"""Higher education students enrolled in an Artificial Intelligence course (n = 52)"""
+extraction,EXT-09-6addaa4f1ae3,ok,1,null
+extraction,EXT-09-6addaa4f1ae3,ok,2,null
+extraction,EXT-09-6addaa4f1ae3,ok,3,"""radical-derived character e-learning platform"""
+extraction,EXT-09-937b48543a47,ok,1,null
+extraction,EXT-09-937b48543a47,ok,2,null
+extraction,EXT-09-937b48543a47,ok,3,null
+extraction,EXT-09-a2b32280421c,ok,1,"""Experimental (pre-test and post-test with control group)"""
+extraction,EXT-09-a2b32280421c,ok,2,"""Experimental pre-test/post-test control group design"""
+extraction,EXT-09-a2b32280421c,ok,3,"""Pre-test and post-test experimental design with control group"""
+extraction,EXT-09-b15c7f27b980,ok,1,null
+extraction,EXT-09-b15c7f27b980,ok,2,null
+extraction,EXT-09-b15c7f27b980,ok,3,null
+extraction,EXT-09-c120edbebf18,ok,1,3.74
+extraction,EXT-09-c120edbebf18,ok,2,3.74
+extraction,EXT-09-c120edbebf18,ok,3,3.74
+extraction,EXT-09-d7f3949b777d,ok,1,null
+extraction,EXT-09-d7f3949b777d,ok,2,null
+extraction,EXT-09-d7f3949b777d,ok,3,null
+extraction,EXT-09-e01be39ca2f3,ok,1,null
+extraction,EXT-09-e01be39ca2f3,ok,2,null
+extraction,EXT-09-e01be39ca2f3,ok,3,null
+extraction,EXT-09-f22c65747fd9,ok,1,null
+extraction,EXT-09-f22c65747fd9,ok,2,33.0
+extraction,EXT-09-f22c65747fd9,ok,3,null
+extraction,EXT-09-f48356fe74eb,ok,1,"""Ninth-grade students (13–14 years old)"""
+extraction,EXT-09-f48356fe74eb,ok,2,"""ninth-grade students (13–14 years old)"""
+extraction,EXT-09-f48356fe74eb,ok,3,"""ninth-grade students (13–14 years old)"""
+extraction,EXT-09-fb35622ea8a1,ok,1,"""Indonesia"""
+extraction,EXT-09-fb35622ea8a1,ok,2,"""Indonesia"""
+extraction,EXT-09-fb35622ea8a1,ok,3,null
+extraction,EXT-09-fd5b452d5761,ok,1,null
+extraction,EXT-09-fd5b452d5761,ok,2,null
+extraction,EXT-09-fd5b452d5761,ok,3,null
+extraction,EXT-10-082fec0a07ba,ok,1,"""Quasi-experimental comparative study"""
+extraction,EXT-10-082fec0a07ba,ok,2,"""Quasi-experimental (comparative) study"""
+extraction,EXT-10-082fec0a07ba,ok,3,"""Quasi-experimental (comparative study of gamified vs non-gamified groups)"""
+extraction,EXT-10-1ef9de2b2af3,ok,1,31.0
+extraction,EXT-10-1ef9de2b2af3,ok,2,31.0
+extraction,EXT-10-1ef9de2b2af3,ok,3,31.0
+extraction,EXT-10-1fdcd428c1c7,ok,1,"""Student engagement; Academic achievement (student achievement)"""
+extraction,EXT-10-1fdcd428c1c7,ok,2,"""Student engagement; Academic achievement"""
+extraction,EXT-10-1fdcd428c1c7,ok,3,"""Student engagement; Academic achievement (student achievement)"""
+extraction,EXT-10-3b388c5e1659,ok,1,"""board game"""
+extraction,EXT-10-3b388c5e1659,ok,2,"""board game"""
+extraction,EXT-10-3b388c5e1659,ok,3,"""board game"""
+extraction,EXT-10-3ead7cd8d8be,ok,1,5.14
+extraction,EXT-10-3ead7cd8d8be,ok,2,5.14
+extraction,EXT-10-3ead7cd8d8be,ok,3,5.14
+extraction,EXT-10-5dfe3747c6fb,ok,1,null
+extraction,EXT-10-5dfe3747c6fb,ok,2,null
+extraction,EXT-10-5dfe3747c6fb,ok,3,null
+extraction,EXT-10-5e22bff36fc5,ok,1,null
+extraction,EXT-10-5e22bff36fc5,ok,2,null
+extraction,EXT-10-5e22bff36fc5,ok,3,null
+extraction,EXT-10-5fdec03ec15f,ok,1,"""Gamified competitive math game"""
+extraction,EXT-10-5fdec03ec15f,ok,2,"""gamified competitive math game"""
+extraction,EXT-10-5fdec03ec15f,ok,3,"""Gamified competitive math game"""
+extraction,EXT-10-68a560ffd9c5,ok,1,122.0
+extraction,EXT-10-68a560ffd9c5,ok,2,122.0
+extraction,EXT-10-68a560ffd9c5,ok,3,"""122 (62 traditional, 60 gamified)"""
+extraction,EXT-10-8448c06d9859,ok,1,"""Russia"""
+extraction,EXT-10-8448c06d9859,ok,2,"""Russia"""
+extraction,EXT-10-8448c06d9859,ok,3,"""Russia"""
+extraction,EXT-10-9b3e6341f113,ok,1,101.0
+extraction,EXT-10-9b3e6341f113,ok,2,101.0
+extraction,EXT-10-9b3e6341f113,ok,3,101.0
+extraction,EXT-10-a7403e725a2d,ok,1,"""Saudi Arabia"""
+extraction,EXT-10-a7403e725a2d,ok,2,"""Saudi Arabia"""
+extraction,EXT-10-a7403e725a2d,ok,3,"""Saudi Arabia"""
+extraction,EXT-10-b7c77a819ccc,ok,1,null
+extraction,EXT-10-b7c77a819ccc,ok,2,"""Portugal"""
+extraction,EXT-10-b7c77a819ccc,ok,3,"""Portugal"""
+extraction,EXT-10-ba4a40ddf967,ok,1,null
+extraction,EXT-10-ba4a40ddf967,ok,2,null
+extraction,EXT-10-ba4a40ddf967,ok,3,null
+extraction,EXT-10-d3e295b9f64f,ok,1,70.0
+extraction,EXT-10-d3e295b9f64f,ok,2,70.0
+extraction,EXT-10-d3e295b9f64f,ok,3,70.0
+extraction,EXT-10-d55863b555f5,ok,1,57.0
+extraction,EXT-10-d55863b555f5,ok,2,57.0
+extraction,EXT-10-d55863b555f5,ok,3,57.0
+extraction,EXT-10-df72d5ee125e,ok,1,0.7
+extraction,EXT-10-df72d5ee125e,ok,2,0.7
+extraction,EXT-10-df72d5ee125e,ok,3,0.7
+extraction,EXT-10-e2a1b70d436d,ok,1,null
+extraction,EXT-10-e2a1b70d436d,ok,2,null
+extraction,EXT-10-e2a1b70d436d,ok,3,null
+extraction,EXT-10-e2dcf141c17c,ok,1,"""Spain"""
+extraction,EXT-10-e2dcf141c17c,ok,2,"""Spain"""
+extraction,EXT-10-e2dcf141c17c,ok,3,"""Spain"""
+extraction,EXT-10-efbd0de23ab3,ok,1,null
+extraction,EXT-10-efbd0de23ab3,ok,2,null
+extraction,EXT-10-efbd0de23ab3,ok,3,null
+extraction,EXT-10-fa84d21251d7,ok,1,0.38
+extraction,EXT-10-fa84d21251d7,ok,2,0.38
+extraction,EXT-10-fa84d21251d7,ok,3,0.38
+extraction,EXT-10-fc7b8db415f5,ok,1,200.0
+extraction,EXT-10-fc7b8db415f5,ok,2,200.0
+extraction,EXT-10-fc7b8db415f5,ok,3,200.0
+extraction,EXT-11-08e8e6ae3731,ok,1,null
+extraction,EXT-11-08e8e6ae3731,ok,2,"""Secondary (15-year-old students; PISA 2009 sample)"""
+extraction,EXT-11-08e8e6ae3731,ok,3,"""secondary"""
+extraction,EXT-11-0ec173167d14,ok,1,"""K-12 (primary and secondary)"""
+extraction,EXT-11-0ec173167d14,ok,2,null
+extraction,EXT-11-0ec173167d14,ok,3,null
+extraction,EXT-11-0f5b06e748c0,ok,1,null
+extraction,EXT-11-0f5b06e748c0,ok,2,null
+extraction,EXT-11-0f5b06e748c0,ok,3,null
+extraction,EXT-11-22cb7e3dbec0,ok,1,null
+extraction,EXT-11-22cb7e3dbec0,ok,2,null
+extraction,EXT-11-22cb7e3dbec0,ok,3,null
+extraction,EXT-11-2383a5deebe6,ok,1,"""Burkina Faso, Cameroon, Cote d'Ivoire, Madagascar, Senegal"""
+extraction,EXT-11-2383a5deebe6,ok,2,"""Burkina Faso, Cameroon, Cote d'Ivoire, Madagascar, Senegal"""
+extraction,EXT-11-2383a5deebe6,ok,3,"""Burkina Faso; Cameroon; Cote d'Ivoire; Madagascar; Senegal"""
+extraction,EXT-11-251805ff0958,ok,1,50.0
+extraction,EXT-11-251805ff0958,ok,2,50.0
+extraction,EXT-11-251805ff0958,ok,3,50.0
+extraction,EXT-11-326a8355ca88,ok,1,1.7
+extraction,EXT-11-326a8355ca88,ok,2,1.7
+extraction,EXT-11-326a8355ca88,ok,3,1.7
+extraction,EXT-11-3a5b073a43eb,ok,1,"""lower secondary"""
+extraction,EXT-11-3a5b073a43eb,ok,2,"""lower secondary"""
+extraction,EXT-11-3a5b073a43eb,ok,3,"""lower secondary"""
+extraction,EXT-11-3daec9e37e26,ok,1,"""K-12"""
+extraction,EXT-11-3daec9e37e26,ok,2,"""K-12 (grades 3, 5, and 8 assessed)"""
+extraction,EXT-11-3daec9e37e26,ok,3,"""K-12"""
+extraction,EXT-11-4d585119af47,ok,1,"""Cross-sectional (analytical) study"""
+extraction,EXT-11-4d585119af47,ok,2,"""Cross-sectional study"""
+extraction,EXT-11-4d585119af47,ok,3,"""Cross-sectional study"""
+extraction,EXT-11-52156f8be423,ok,1,"""England"""
+extraction,EXT-11-52156f8be423,ok,2,"""England"""
+extraction,EXT-11-52156f8be423,ok,3,"""England"""
+extraction,EXT-11-523c1a7480d0,ok,1,null
+extraction,EXT-11-523c1a7480d0,ok,2,null
+extraction,EXT-11-523c1a7480d0,ok,3,null
+extraction,EXT-11-531b7ec008a0,ok,1,null
+extraction,EXT-11-531b7ec008a0,ok,2,null
+extraction,EXT-11-531b7ec008a0,ok,3,null
+extraction,EXT-11-5888ae6f6a86,ok,1,1297.0
+extraction,EXT-11-5888ae6f6a86,ok,2,1297.0
+extraction,EXT-11-5888ae6f6a86,ok,3,1297.0
+extraction,EXT-11-66387b9affa4,ok,1,"""primary"""
+extraction,EXT-11-66387b9affa4,ok,2,"""primary (elementary)"""
+extraction,EXT-11-66387b9affa4,ok,3,"""primary (elementary)"""
+extraction,EXT-11-6c3759baf190,ok,1,"""11-22.5"""
+extraction,EXT-11-6c3759baf190,ok,2,"""14-21 (K-2); 11-22.5 (grades 3-5)"""
+extraction,EXT-11-6c3759baf190,ok,3,"""14-21 (K-2); 11-22.5 (grades 3-5)"""
+extraction,EXT-11-78c03ea094f3,ok,1,null
+extraction,EXT-11-78c03ea094f3,ok,2,null
+extraction,EXT-11-78c03ea094f3,ok,3,null
+extraction,EXT-11-823c71634bd7,ok,1,"""Secondary (junior secondary schools)"""
+extraction,EXT-11-823c71634bd7,ok,2,"""public junior secondary schools"""
+extraction,EXT-11-823c71634bd7,ok,3,"""public junior secondary (secondary)"""
+extraction,EXT-11-86f20a31f0b5,ok,1,"""15 to 30"""
+extraction,EXT-11-86f20a31f0b5,ok,2,"""15 to 30"""
+extraction,EXT-11-86f20a31f0b5,ok,3,30.0
+extraction,EXT-11-95c992c6b98f,ok,1,null
+extraction,EXT-11-95c992c6b98f,ok,2,null
+extraction,EXT-11-95c992c6b98f,ok,3,null
+extraction,EXT-11-a1b2f8e9821d,ok,1,80000.0
+extraction,EXT-11-a1b2f8e9821d,ok,2,80000.0
+extraction,EXT-11-a1b2f8e9821d,ok,3,80000.0
+extraction,EXT-11-a942f9fb8e3c,ok,1,22.0
+extraction,EXT-11-a942f9fb8e3c,ok,2,22.0
+extraction,EXT-11-a942f9fb8e3c,ok,3,22.0
+extraction,EXT-11-ab36ce874f21,ok,1,"""Ethiopia"""
+extraction,EXT-11-ab36ce874f21,ok,2,"""Ethiopia"""
+extraction,EXT-11-ab36ce874f21,ok,3,"""Ethiopia"""
+extraction,EXT-11-c4d1e3fd1d7e,ok,1,"""Cluster-randomized controlled trial (field experiment) with some individual-level random assignment"""
+extraction,EXT-11-c4d1e3fd1d7e,ok,2,"""Randomized controlled trial (field experiment; cluster randomization of schools with additional within-school student random assignment)"""
+extraction,EXT-11-c4d1e3fd1d7e,ok,3,"""Randomized controlled trial (cluster-randomized at school level with additional individual random assignment)"""
+extraction,EXT-11-ca3b1004c2a4,ok,1,"""Cross-sectional survey (observational)"""
+extraction,EXT-11-ca3b1004c2a4,ok,2,"""Cross-sectional survey (comparative)"""
+extraction,EXT-11-ca3b1004c2a4,ok,3,"""Cross-sectional survey (observational)"""
+extraction,EXT-11-ea1bd172f3e4,ok,1,"""United States"""
+extraction,EXT-11-ea1bd172f3e4,ok,2,"""United States"""
+extraction,EXT-11-ea1bd172f3e4,ok,3,"""United States"""
+extraction,EXT-11-f213ba6962ed,ok,1,"""K-12 (primary and secondary)"""
+extraction,EXT-11-f213ba6962ed,ok,2,"""K-12"""
+extraction,EXT-11-f213ba6962ed,ok,3,null
+extraction,EXT-12-0c5535f013fa,ok,1,"""Education"""
+extraction,EXT-12-0c5535f013fa,ok,2,"""Education"""
+extraction,EXT-12-0c5535f013fa,ok,3,"""Education"""
+extraction,EXT-12-211c2f267dc1,ok,1,"""China, Japan, Mongolia, USA"""
+extraction,EXT-12-211c2f267dc1,ok,2,"""China, Japan, Mongolia, USA"""
+extraction,EXT-12-211c2f267dc1,ok,3,"""China, Japan, Mongolia, USA"""
+extraction,EXT-12-29b504af6c96,ok,1,null
+extraction,EXT-12-29b504af6c96,ok,2,null
+extraction,EXT-12-29b504af6c96,ok,3,null
+extraction,EXT-12-30241ba1b5ca,ok,1,null
+extraction,EXT-12-30241ba1b5ca,ok,2,null
+extraction,EXT-12-30241ba1b5ca,ok,3,null
+extraction,EXT-12-31fb641b4af9,ok,1,"""Policy brief (memorandum / position paper)"""
+extraction,EXT-12-31fb641b4af9,ok,2,"""policy brief / memorandum (consultation brief)"""
+extraction,EXT-12-31fb641b4af9,ok,3,"""Policy brief / position paper (memo)"""
+extraction,EXT-12-35a5aeb1642d,ok,1,337.0
+extraction,EXT-12-35a5aeb1642d,ok,2,337.0
+extraction,EXT-12-35a5aeb1642d,ok,3,337.0
+extraction,EXT-12-3aed752c1324,ok,1,null
+extraction,EXT-12-3aed752c1324,ok,2,null
+extraction,EXT-12-3aed752c1324,ok,3,null
+extraction,EXT-12-3d2d2fbd61f6,ok,1,"""Higher Education"""
+extraction,EXT-12-3d2d2fbd61f6,ok,2,"""Higher education"""
+extraction,EXT-12-3d2d2fbd61f6,ok,3,"""Higher education"""
+extraction,EXT-12-3dfb679dde2d,ok,1,null
+extraction,EXT-12-3dfb679dde2d,ok,2,null
+extraction,EXT-12-3dfb679dde2d,ok,3,null
+extraction,EXT-12-4ecdd76e0f9f,ok,1,519.0
+extraction,EXT-12-4ecdd76e0f9f,ok,2,519.0
+extraction,EXT-12-4ecdd76e0f9f,ok,3,519.0
+extraction,EXT-12-5374d3401c6d,ok,1,""">100"""
+extraction,EXT-12-5374d3401c6d,ok,2,""">100"""
+extraction,EXT-12-5374d3401c6d,ok,3,""">100"""
+extraction,EXT-12-5e7eed8b42ea,ok,1,"""Russia"""
+extraction,EXT-12-5e7eed8b42ea,ok,2,"""Russia"""
+extraction,EXT-12-5e7eed8b42ea,ok,3,"""Russia"""
+extraction,EXT-12-5fb541a60674,ok,1,200.0
+extraction,EXT-12-5fb541a60674,ok,2,200.0
+extraction,EXT-12-5fb541a60674,ok,3,200.0
+extraction,EXT-12-65c68ded89f2,ok,1,"""positive"""
+extraction,EXT-12-65c68ded89f2,ok,2,"""positive"""
+extraction,EXT-12-65c68ded89f2,ok,3,"""positive"""
+extraction,EXT-12-694c78fe48c3,ok,1,null
+extraction,EXT-12-694c78fe48c3,ok,2,null
+extraction,EXT-12-694c78fe48c3,ok,3,null
+extraction,EXT-12-6a6a4457a575,ok,1,null
+extraction,EXT-12-6a6a4457a575,ok,2,null
+extraction,EXT-12-6a6a4457a575,ok,3,null
+extraction,EXT-12-7f3c8b6c4912,ok,1,"""95; 75"""
+extraction,EXT-12-7f3c8b6c4912,ok,2,95.0
+extraction,EXT-12-7f3c8b6c4912,ok,3,170.0
+extraction,EXT-12-a5ce35486f2b,ok,1,"""Russia"""
+extraction,EXT-12-a5ce35486f2b,ok,2,"""Russia"""
+extraction,EXT-12-a5ce35486f2b,ok,3,"""Russia"""
+extraction,EXT-12-a717045a9683,ok,1,"""Global (109 countries and territories)"""
+extraction,EXT-12-a717045a9683,ok,2,"""Global — 109 countries and territories"""
+extraction,EXT-12-a717045a9683,ok,3,"""Global (sample from 109 countries and territories)"""
+extraction,EXT-12-aa7cf3d0614e,ok,1,null
+extraction,EXT-12-aa7cf3d0614e,ok,2,null
+extraction,EXT-12-aa7cf3d0614e,ok,3,null
+extraction,EXT-12-b6045fcb37a2,ok,1,190.0
+extraction,EXT-12-b6045fcb37a2,ok,2,190.0
+extraction,EXT-12-b6045fcb37a2,ok,3,190.0
+extraction,EXT-12-b662a9a10d90,ok,1,3.0
+extraction,EXT-12-b662a9a10d90,ok,2,3.0
+extraction,EXT-12-b662a9a10d90,ok,3,20.0
+extraction,EXT-12-be1fc3c51ec2,ok,1,null
+extraction,EXT-12-be1fc3c51ec2,ok,2,null
+extraction,EXT-12-be1fc3c51ec2,ok,3,null
+extraction,EXT-12-d9793b3caed5,ok,1,null
+extraction,EXT-12-d9793b3caed5,ok,2,null
+extraction,EXT-12-d9793b3caed5,ok,3,null
+extraction,EXT-12-db51f4f8c740,ok,1,"""Higher-education summative assessment (essay evaluation)"""
+extraction,EXT-12-db51f4f8c740,ok,2,"""Higher-education assessment (use of generative AI in summative essays)"""
+extraction,EXT-12-db51f4f8c740,ok,3,"""Higher education assessment (use of generative AI in student essays / assessment redesign and academic integrity)"""
+extraction,EXT-12-de7298f556b0,ok,1,null
+extraction,EXT-12-de7298f556b0,ok,2,null
+extraction,EXT-12-de7298f556b0,ok,3,null
+extraction,EXT-13-00336ccac624,ok,1,null
+extraction,EXT-13-00336ccac624,ok,2,null
+extraction,EXT-13-00336ccac624,ok,3,null
+extraction,EXT-13-072b1eeb7afc,ok,1,15.0
+extraction,EXT-13-072b1eeb7afc,ok,2,15.0
+extraction,EXT-13-072b1eeb7afc,ok,3,15.0
+extraction,EXT-13-1874e18e11f1,ok,1,null
+extraction,EXT-13-1874e18e11f1,ok,2,null
+extraction,EXT-13-1874e18e11f1,ok,3,null
+extraction,EXT-13-1d9a1269ee60,ok,1,"""Space-for-time (comparative observational) study"""
+extraction,EXT-13-1d9a1269ee60,ok,2,"""Space-for-time observational comparative study"""
+extraction,EXT-13-1d9a1269ee60,ok,3,"""Space-for-time comparative observational study (comparative observational study of no-take MPAs vs unprotected areas)"""
+extraction,EXT-13-264bc81246bd,ok,1,183.0
+extraction,EXT-13-264bc81246bd,ok,2,null
+extraction,EXT-13-264bc81246bd,ok,3,null
+extraction,EXT-13-40a5afba89fb,ok,1,null
+extraction,EXT-13-40a5afba89fb,ok,2,null
+extraction,EXT-13-40a5afba89fb,ok,3,null
+extraction,EXT-13-40f4d6799c01,ok,1,null
+extraction,EXT-13-40f4d6799c01,ok,2,null
+extraction,EXT-13-40f4d6799c01,ok,3,null
+extraction,EXT-13-462ca48f05eb,ok,1,null
+extraction,EXT-13-462ca48f05eb,ok,2,null
+extraction,EXT-13-462ca48f05eb,ok,3,null
+extraction,EXT-13-525c3bb5cb2d,ok,1,40.0
+extraction,EXT-13-525c3bb5cb2d,ok,2,40.0
+extraction,EXT-13-525c3bb5cb2d,ok,3,40.0
+extraction,EXT-13-5f42d4adddbe,ok,1,58.2
+extraction,EXT-13-5f42d4adddbe,ok,2,58.2
+extraction,EXT-13-5f42d4adddbe,ok,3,58.2
+extraction,EXT-13-6bab7ef558fa,ok,1,null
+extraction,EXT-13-6bab7ef558fa,ok,2,null
+extraction,EXT-13-6bab7ef558fa,ok,3,null
+extraction,EXT-13-72e627ff407f,ok,1,null
+extraction,EXT-13-72e627ff407f,ok,2,null
+extraction,EXT-13-72e627ff407f,ok,3,null
+extraction,EXT-13-84599ad5a7a5,ok,1,null
+extraction,EXT-13-84599ad5a7a5,ok,2,null
+extraction,EXT-13-84599ad5a7a5,ok,3,null
+extraction,EXT-13-985b94c92c59,ok,1,null
+extraction,EXT-13-985b94c92c59,ok,2,null
+extraction,EXT-13-985b94c92c59,ok,3,null
+extraction,EXT-13-99c03b3b0211,ok,1,null
+extraction,EXT-13-99c03b3b0211,ok,2,null
+extraction,EXT-13-99c03b3b0211,ok,3,null
+extraction,EXT-13-9d95646de3e5,ok,1,"""No-Take Zone (NTZ)"""
+extraction,EXT-13-9d95646de3e5,ok,2,"""No-Take Zone (NTZ)"""
+extraction,EXT-13-9d95646de3e5,ok,3,"""Marine Reserve (initially a multiple-use MPA allowing small-scale fishing (SSF); later functioned as and was upgraded to a No-Take Zone (NTZ))"""
+extraction,EXT-13-b4e0206fbe64,ok,1,"""Sanctuary (no-take), Protected (restricted fishing/SCUBA), Open (unprotected)"""
+extraction,EXT-13-b4e0206fbe64,ok,2,"""Sanctuary; Protected; Open"""
+extraction,EXT-13-b4e0206fbe64,ok,3,"""Sanctuary; Protected; Open"""
+extraction,EXT-13-b62971451c82,ok,1,null
+extraction,EXT-13-b62971451c82,ok,2,"""marine protected area (MPA)"""
+extraction,EXT-13-b62971451c82,ok,3,"""marine protected area (MPA)"""
+extraction,EXT-13-bed2f2aee74a,ok,1,22.0
+extraction,EXT-13-bed2f2aee74a,ok,2,22.0
+extraction,EXT-13-bed2f2aee74a,ok,3,22.0
+extraction,EXT-13-c27da32e28f1,ok,1,2.5
+extraction,EXT-13-c27da32e28f1,ok,2,2.5
+extraction,EXT-13-c27da32e28f1,ok,3,2.5
+extraction,EXT-13-d2f1fa5a74e6,ok,1,5.0
+extraction,EXT-13-d2f1fa5a74e6,ok,2,5.0
+extraction,EXT-13-d2f1fa5a74e6,ok,3,5.0
+extraction,EXT-13-e427bc9cb851,ok,1,7.0
+extraction,EXT-13-e427bc9cb851,ok,2,7.0
+extraction,EXT-13-e427bc9cb851,ok,3,7.0
+extraction,EXT-13-e9844e4248b3,ok,1,null
+extraction,EXT-13-e9844e4248b3,ok,2,null
+extraction,EXT-13-e9844e4248b3,ok,3,null
+extraction,EXT-13-ef8ea24745b3,ok,1,null
+extraction,EXT-13-ef8ea24745b3,ok,2,null
+extraction,EXT-13-ef8ea24745b3,ok,3,null
+extraction,EXT-13-f2a7b7525688,ok,1,"""Australia"""
+extraction,EXT-13-f2a7b7525688,ok,2,null
+extraction,EXT-13-f2a7b7525688,ok,3,"""Australia"""
+extraction,EXT-14-037639bc7ee0,ok,1,"""17, 32, 52, 54"""
+extraction,EXT-14-037639bc7ee0,ok,2,"""17, 32, 52, 54"""
+extraction,EXT-14-037639bc7ee0,ok,3,"""17 and 32"""
+extraction,EXT-14-09112dbd8a40,ok,1,132.2
+extraction,EXT-14-09112dbd8a40,ok,2,132.2
+extraction,EXT-14-09112dbd8a40,ok,3,132.2
+extraction,EXT-14-107b5179d890,ok,1,"""Sub-tropical broadleaved Monotheca buxifolia forest"""
+extraction,EXT-14-107b5179d890,ok,2,"""sub-tropical broadleaved (Monotheca buxifolia) forest"""
+extraction,EXT-14-107b5179d890,ok,3,"""sub-tropical broadleaved forest (Monotheca buxifolia-dominated)"""
+extraction,EXT-14-157bec51e39c,ok,1,"""urban forest"""
+extraction,EXT-14-157bec51e39c,ok,2,"""urban forest"""
+extraction,EXT-14-157bec51e39c,ok,3,"""urban forest"""
+extraction,EXT-14-1956edb69d16,ok,1,"""short rotation coppice (SRC) willow"""
+extraction,EXT-14-1956edb69d16,ok,2,"""Short rotation coppice (SRC) willow and Miscanthus (biomass crops)"""
+extraction,EXT-14-1956edb69d16,ok,3,"""short rotation coppice (SRC) willow and Miscanthus"""
+extraction,EXT-14-1cb256838a6e,ok,1,null
+extraction,EXT-14-1cb256838a6e,ok,2,null
+extraction,EXT-14-1cb256838a6e,ok,3,null
+extraction,EXT-14-348eb75474fc,ok,1,"""PSNP area closures (rehabilitated area closures) and agroforestry systems (woodlots, Enset- and Coffee-based agroforestry, scattered trees on farms)"""
+extraction,EXT-14-348eb75474fc,ok,2,"""Area closures (PSNP area closures)"""
+extraction,EXT-14-348eb75474fc,ok,3,"""PSNP area closures and agroforestry systems (woodlots; Enset- and Coffee-based agroforestry; scattered trees on farms)"""
+extraction,EXT-14-3ae48a139e8f,ok,1,null
+extraction,EXT-14-3ae48a139e8f,ok,2,null
+extraction,EXT-14-3ae48a139e8f,ok,3,null
+extraction,EXT-14-3c09be6839c7,ok,1,15.0
+extraction,EXT-14-3c09be6839c7,ok,2,15.0
+extraction,EXT-14-3c09be6839c7,ok,3,15.0
+extraction,EXT-14-40edf42d411c,ok,1,null
+extraction,EXT-14-40edf42d411c,ok,2,null
+extraction,EXT-14-40edf42d411c,ok,3,null
+extraction,EXT-14-6665c6471cb4,ok,1,null
+extraction,EXT-14-6665c6471cb4,ok,2,null
+extraction,EXT-14-6665c6471cb4,ok,3,null
+extraction,EXT-14-68afff46a0bd,ok,1,5.0
+extraction,EXT-14-68afff46a0bd,ok,2,5.0
+extraction,EXT-14-68afff46a0bd,ok,3,5.0
+extraction,EXT-14-6bec6f7a19a4,ok,1,"""14, 24, 26"""
+extraction,EXT-14-6bec6f7a19a4,ok,2,"""14, 24, 26"""
+extraction,EXT-14-6bec6f7a19a4,ok,3,"""14, 24, 26"""
+extraction,EXT-14-730af180e854,ok,1,"""Cross-sectional observational field study"""
+extraction,EXT-14-730af180e854,ok,2,"""Cross-sectional observational (field) study"""
+extraction,EXT-14-730af180e854,ok,3,"""Cross-sectional observational field study (forest carbon stock assessment)"""
+extraction,EXT-14-7577e10e6c56,ok,1,"""Allometric equation/model development (field-based observational study)"""
+extraction,EXT-14-7577e10e6c56,ok,2,"""Allometric equation development (field-based observational modeling study)"""
+extraction,EXT-14-7577e10e6c56,ok,3,"""Allometric equation development (model development / observational field study)"""
+extraction,EXT-14-76092955e58c,ok,1,"""Cross-sectional observational study (field sampling)"""
+extraction,EXT-14-76092955e58c,ok,2,"""Cross-sectional observational study"""
+extraction,EXT-14-76092955e58c,ok,3,"""Observational field study (cross-sectional) with allometric model development"""
+extraction,EXT-14-7b3b12cd6bcf,ok,1,"""Italy"""
+extraction,EXT-14-7b3b12cd6bcf,ok,2,"""Italy"""
+extraction,EXT-14-7b3b12cd6bcf,ok,3,"""Italy"""
+extraction,EXT-14-7dfbf04778f0,ok,1,40.0
+extraction,EXT-14-7dfbf04778f0,ok,2,40.0
+extraction,EXT-14-7dfbf04778f0,ok,3,40.0
+extraction,EXT-14-81ee3b234010,ok,1,"""4-24 years"""
+extraction,EXT-14-81ee3b234010,ok,2,"""4-24"""
+extraction,EXT-14-81ee3b234010,ok,3,"""4-24 years"""
+extraction,EXT-14-858ae4d840c7,ok,1,50.0
+extraction,EXT-14-858ae4d840c7,ok,2,50.0
+extraction,EXT-14-858ae4d840c7,ok,3,50.0
+extraction,EXT-14-85ec11119bc1,ok,1,"""100–150"""
+extraction,EXT-14-85ec11119bc1,ok,2,"""100-150"""
+extraction,EXT-14-85ec11119bc1,ok,3,"""100-150"""
+extraction,EXT-14-892ed608ac71,ok,1,null
+extraction,EXT-14-892ed608ac71,ok,2,null
+extraction,EXT-14-892ed608ac71,ok,3,32.0
+extraction,EXT-14-8ba996adcb41,ok,1,null
+extraction,EXT-14-8ba996adcb41,ok,2,null
+extraction,EXT-14-8ba996adcb41,ok,3,null
+extraction,EXT-14-9532d35f18ff,ok,1,"""China"""
+extraction,EXT-14-9532d35f18ff,ok,2,"""China"""
+extraction,EXT-14-9532d35f18ff,ok,3,"""China"""
+extraction,EXT-14-958fd6e3d66d,ok,1,null
+extraction,EXT-14-958fd6e3d66d,ok,2,null
+extraction,EXT-14-958fd6e3d66d,ok,3,null
+extraction,EXT-14-a66284ae6d2c,ok,1,null
+extraction,EXT-14-a66284ae6d2c,ok,2,null
+extraction,EXT-14-a66284ae6d2c,ok,3,null
+extraction,EXT-14-acb045da4d03,ok,1,"""10, 15, 20"""
+extraction,EXT-14-acb045da4d03,ok,2,"""10, 15, 20"""
+extraction,EXT-14-acb045da4d03,ok,3,"""10, 15, 20"""
+extraction,EXT-14-af9581228860,ok,1,null
+extraction,EXT-14-af9581228860,ok,2,null
+extraction,EXT-14-af9581228860,ok,3,null
+extraction,EXT-14-afdbefff7d51,ok,1,14.8
+extraction,EXT-14-afdbefff7d51,ok,2,14.8
+extraction,EXT-14-afdbefff7d51,ok,3,14.8
+extraction,EXT-14-b56a9bce2f37,ok,1,"""Cross-sectional observational (field) study"""
+extraction,EXT-14-b56a9bce2f37,ok,2,"""Observational field study (cross-sectional) with destructive sampling and regression modelling"""
+extraction,EXT-14-b56a9bce2f37,ok,3,"""Field-based observational (cross-sectional) study with allometric equation development"""
+extraction,EXT-14-b682e5264abb,ok,1,"""plantation"""
+extraction,EXT-14-b682e5264abb,ok,2,"""Plantation"""
+extraction,EXT-14-b682e5264abb,ok,3,"""plantation trees"""
+extraction,EXT-14-b6f14e98468e,ok,1,"""Cross-sectional observational study (household survey with satellite image analysis and forest inventory)"""
+extraction,EXT-14-b6f14e98468e,ok,2,"""Cross-sectional observational study (household survey with satellite imagery and forest inventory)"""
+extraction,EXT-14-b6f14e98468e,ok,3,"""Cross-sectional observational study (household survey with satellite image analysis and forest inventory)"""
+extraction,EXT-14-ba3ec38c7087,ok,1,500.0
+extraction,EXT-14-ba3ec38c7087,ok,2,500.0
+extraction,EXT-14-ba3ec38c7087,ok,3,500.0
+extraction,EXT-14-c02433a3c99b,ok,1,41.0
+extraction,EXT-14-c02433a3c99b,ok,2,41.0
+extraction,EXT-14-c02433a3c99b,ok,3,41.0
+extraction,EXT-14-c401d91ee367,ok,1,"""115.6 to 238.7 tC/ha"""
+extraction,EXT-14-c401d91ee367,ok,2,"""≈116–239 tC/ha (range derived from 230–475 Tg C ÷ 1.99 million ha: 230 Tg/1.99 Mha = 115.6 tC/ha; 475 Tg/1.99 Mha = 238.7 tC/ha)"""
+extraction,EXT-14-c401d91ee367,ok,3,"""115.6 to 238.7 tC/ha"""
+extraction,EXT-14-c8ded06db996,ok,1,5.0
+extraction,EXT-14-c8ded06db996,ok,2,5.0
+extraction,EXT-14-c8ded06db996,ok,3,5.0
+extraction,EXT-14-c8fdf712e9cf,ok,1,100.0
+extraction,EXT-14-c8fdf712e9cf,ok,2,100.0
+extraction,EXT-14-c8fdf712e9cf,ok,3,100.0
+extraction,EXT-14-cbba59f80388,ok,1,"""Cross-sectional observational field study (comparative study of five mangrove plantations)"""
+extraction,EXT-14-cbba59f80388,ok,2,"""cross-sectional observational field study (comparative study of five mangrove plantations)"""
+extraction,EXT-14-cbba59f80388,ok,3,"""cross-sectional comparative field study"""
+extraction,EXT-14-cdbfa84f4e5f,ok,1,"""1-30"""
+extraction,EXT-14-cdbfa84f4e5f,ok,2,"""1-30"""
+extraction,EXT-14-cdbfa84f4e5f,ok,3,"""1-30"""
+extraction,EXT-14-d45aff28ffe2,ok,1,"""Brazilian Atlantic Forest (active restoration)"""
+extraction,EXT-14-d45aff28ffe2,ok,2,"""Brazilian Atlantic Forest"""
+extraction,EXT-14-d45aff28ffe2,ok,3,"""Restored Brazilian Atlantic Forest (active restoration with planted native trees)"""
+extraction,EXT-14-f72ded4e9eac,ok,1,"""Plot-based observational field study (vegetation/forest inventory / cross-sectional ecological survey)"""
+extraction,EXT-14-f72ded4e9eac,ok,2,"""Plot-based observational field survey (one-hectare vegetation plot)"""
+extraction,EXT-14-f72ded4e9eac,ok,3,"""Plot-based observational field study (forest inventory / cross-sectional survey)"""
+extraction,EXT-14-f89784e2e5a4,ok,1,"""revegetation (Grain-for-Green reforestation/afforestation)"""
+extraction,EXT-14-f89784e2e5a4,ok,2,"""forest expansion (revegetation/afforestation via the Grain-for-Green Project)"""
+extraction,EXT-14-f89784e2e5a4,ok,3,"""revegetation/afforestation (Grain-for-Green Project)"""
+extraction,EXT-14-fb351eaabfd5,ok,1,"""Field-based observational study (allometric equation development and validation via tree harvest)"""
+extraction,EXT-14-fb351eaabfd5,ok,2,"""Observational field study (allometric equation development and validation)"""
+extraction,EXT-14-fb351eaabfd5,ok,3,"""Observational cross-sectional study (field-based model development and validation of allometric equations)"""
+extraction,EXT-14-fb3b4e5e4332,ok,1,"""40 clumps and 86 culms"""
+extraction,EXT-14-fb3b4e5e4332,ok,2,"""40 clumps; 86 culms"""
+extraction,EXT-14-fb3b4e5e4332,ok,3,"""40 clumps and 86 culms"""
+extraction,EXT-14-ff0d87e44769,ok,1,null
+extraction,EXT-14-ff0d87e44769,ok,2,null
+extraction,EXT-14-ff0d87e44769,ok,3,null
+extraction,EXT-15-147d6ebe18a4,ok,1,"""Cross-sectional study"""
+extraction,EXT-15-147d6ebe18a4,ok,2,"""Cross-sectional study (cross-sectional analysis of survey data)"""
+extraction,EXT-15-147d6ebe18a4,ok,3,"""Cross-sectional study (cross-sectional analysis of survey data)"""
+extraction,EXT-15-159639e2c2fa,ok,1,-0.01
+extraction,EXT-15-159639e2c2fa,ok,2,-0.25
+extraction,EXT-15-159639e2c2fa,ok,3,-0.01
+extraction,EXT-15-316ed0ad0fc7,ok,1,"""Prolonged hospitalization; ICU admission (including ICU transfer and requirement for mechanical ventilation); Death (mortality); Poor/bad prognosis"""
+extraction,EXT-15-316ed0ad0fc7,ok,2,"""ICU admission/transfer, need for mechanical ventilation, prolonged hospitalization, death (poor/bad prognosis)"""
+extraction,EXT-15-316ed0ad0fc7,ok,3,"""Prolonged hospitalization; ICU admission (including mechanical ventilation); death (mortality)"""
+extraction,EXT-15-40fc078ba781,ok,1,"""195 countries and territories (global)"""
+extraction,EXT-15-40fc078ba781,ok,2,"""195 countries and territories"""
+extraction,EXT-15-40fc078ba781,ok,3,"""195 countries and territories"""
+extraction,EXT-15-465dc85e440c,ok,1,null
+extraction,EXT-15-465dc85e440c,ok,2,null
+extraction,EXT-15-465dc85e440c,ok,3,null
+extraction,EXT-15-511c66cdbef0,ok,1,-7.8
+extraction,EXT-15-511c66cdbef0,ok,2,-4.5
+extraction,EXT-15-511c66cdbef0,ok,3,-7.8
+extraction,EXT-15-5f1cffb1055d,ok,1,null
+extraction,EXT-15-5f1cffb1055d,ok,2,null
+extraction,EXT-15-5f1cffb1055d,ok,3,null
+extraction,EXT-15-68963c5ac337,ok,1,"""Global (worldwide; Global Burden of Disease study covering multiple regions/super-regions)"""
+extraction,EXT-15-68963c5ac337,ok,2,null
+extraction,EXT-15-68963c5ac337,ok,3,null
+extraction,EXT-15-6dcf0168cb93,ok,1,null
+extraction,EXT-15-6dcf0168cb93,ok,2,null
+extraction,EXT-15-6dcf0168cb93,ok,3,null
+extraction,EXT-15-6fbfded7c1aa,ok,1,"""Bacteriologically confirmed tuberculosis (active TB)"""
+extraction,EXT-15-6fbfded7c1aa,ok,2,"""bacteriologically confirmed tuberculosis (TB)"""
+extraction,EXT-15-6fbfded7c1aa,ok,3,"""Bacteriologically confirmed tuberculosis (active TB)"""
+extraction,EXT-15-72b55efbb866,ok,1,null
+extraction,EXT-15-72b55efbb866,ok,2,null
+extraction,EXT-15-72b55efbb866,ok,3,null
+extraction,EXT-15-831fa6efbd73,ok,1,null
+extraction,EXT-15-831fa6efbd73,ok,2,null
+extraction,EXT-15-831fa6efbd73,ok,3,null
+extraction,EXT-15-8380b3b46a39,ok,1,1.68
+extraction,EXT-15-8380b3b46a39,ok,2,1.68
+extraction,EXT-15-8380b3b46a39,ok,3,1.68
+extraction,EXT-15-8824f6d4b64e,ok,1,"""Solomon Islands; Vanuatu; Afghanistan; Philippines; Zimbabwe; Lesotho; Somalia"""
+extraction,EXT-15-8824f6d4b64e,ok,2,"""Solomon Islands, Vanuatu, Afghanistan, Philippines, Zimbabwe, Lesotho, Somalia"""
+extraction,EXT-15-8824f6d4b64e,ok,3,"""Solomon Islands; Vanuatu; Afghanistan; Philippines; Zimbabwe; Lesotho; Somalia"""
+extraction,EXT-15-8a621118aa9c,ok,1,"""Acute respiratory infection; Diarrhoea; Infant mortality rate (IMR); Under-5 mortality rate (U5MR)"""
+extraction,EXT-15-8a621118aa9c,ok,2,"""Acute respiratory infection; Diarrhoea; Infant mortality rate (IMR); Under-5 mortality rate (U5MR)"""
+extraction,EXT-15-8a621118aa9c,ok,3,"""acute respiratory infection; diarrhoea; infant mortality rate (IMR); under-5 mortality rate (U5MR)"""
+extraction,EXT-15-a2dac623294f,ok,1,null
+extraction,EXT-15-a2dac623294f,ok,2,null
+extraction,EXT-15-a2dac623294f,ok,3,null
+extraction,EXT-15-ab8bf548a7bf,ok,1,"""Total mortality; Respiratory mortality; Cardiovascular mortality; Total hospitalization rate; Respiratory hospitalization rate"""
+extraction,EXT-15-ab8bf548a7bf,ok,2,"""Total mortality; Respiratory mortality; Cardiovascular mortality; Total hospitalization rates; Respiratory hospitalization rates"""
+extraction,EXT-15-ab8bf548a7bf,ok,3,"""Total mortality; respiratory mortality; cardiovascular mortality; total hospitalization rate; respiratory hospitalization rate"""
+extraction,EXT-15-c60e7d44161e,ok,1,8.9
+extraction,EXT-15-c60e7d44161e,ok,2,8.9
+extraction,EXT-15-c60e7d44161e,ok,3,8.9
+extraction,EXT-15-cc65aa7952a8,ok,1,"""Cross-sectional study (secondary analysis of 2011 Demographic and Health Survey)"""
+extraction,EXT-15-cc65aa7952a8,ok,2,"""Cross-sectional study (secondary analysis of 2011 Demographic and Health Survey data)"""
+extraction,EXT-15-cc65aa7952a8,ok,3,"""Cross-sectional study (secondary analysis of 2011 Demographic and Health Survey data)"""
+extraction,EXT-15-d1d39de3c2df,ok,1,"""The Gambia, Kenya, Mozambique"""
+extraction,EXT-15-d1d39de3c2df,ok,2,"""The Gambia, Kenya, Mozambique"""
+extraction,EXT-15-d1d39de3c2df,ok,3,"""The Gambia; Kenya; Mozambique"""
+extraction,EXT-15-de6cd43a1a39,ok,1,"""evidence-based review"""
+extraction,EXT-15-de6cd43a1a39,ok,2,"""Evidence-based review"""
+extraction,EXT-15-de6cd43a1a39,ok,3,"""evidence-based review"""
+extraction,EXT-15-f37ec99233ec,ok,1,null
+extraction,EXT-15-f37ec99233ec,ok,2,null
+extraction,EXT-15-f37ec99233ec,ok,3,null
+extraction,EXT-15-f58c7721c7a8,ok,1,8.01
+extraction,EXT-15-f58c7721c7a8,ok,2,8.01
+extraction,EXT-15-f58c7721c7a8,ok,3,8.01
+extraction,EXT-15-fafb69c37653,ok,1,"""United States"""
+extraction,EXT-15-fafb69c37653,ok,2,"""United States"""
+extraction,EXT-15-fafb69c37653,ok,3,"""United States"""
+extraction,EXT-16-01efa4403f57,ok,1,240.0
+extraction,EXT-16-01efa4403f57,ok,2,240.0
+extraction,EXT-16-01efa4403f57,ok,3,240.0
+extraction,EXT-16-1704452491dc,ok,1,null
+extraction,EXT-16-1704452491dc,ok,2,null
+extraction,EXT-16-1704452491dc,ok,3,null
+extraction,EXT-16-3e309b09a8a3,ok,1,null
+extraction,EXT-16-3e309b09a8a3,ok,2,null
+extraction,EXT-16-3e309b09a8a3,ok,3,null
+extraction,EXT-16-45acbb81639c,ok,1,"""Longitudinal observational study"""
+extraction,EXT-16-45acbb81639c,ok,2,"""Longitudinal observational study (seasonal monitoring; monthly sampling over 15 months)"""
+extraction,EXT-16-45acbb81639c,ok,3,"""Longitudinal observational (repeated-measures) field study"""
+extraction,EXT-16-49c697cf5eff,ok,1,null
+extraction,EXT-16-49c697cf5eff,ok,2,null
+extraction,EXT-16-49c697cf5eff,ok,3,null
+extraction,EXT-16-55ef79adf12f,ok,1,0.5
+extraction,EXT-16-55ef79adf12f,ok,2,null
+extraction,EXT-16-55ef79adf12f,ok,3,0.5
+extraction,EXT-16-633b9894f471,ok,1,"""United States"""
+extraction,EXT-16-633b9894f471,ok,2,"""United States"""
+extraction,EXT-16-633b9894f471,ok,3,"""United States"""
+extraction,EXT-16-878601e0da49,ok,1,"""Field survey (environmental monitoring) and laboratory experimental bioassays"""
+extraction,EXT-16-878601e0da49,ok,2,"""Combined field survey (observational) and laboratory experimental bioassays"""
+extraction,EXT-16-878601e0da49,ok,3,"""Field survey (environmental sampling) combined with experimental laboratory bioassays"""
+extraction,EXT-16-ab6cfc12bfbb,ok,1,"""0.00112 to 0.01745"""
+extraction,EXT-16-ab6cfc12bfbb,ok,2,"""0.00112-0.01745 items L^-1"""
+extraction,EXT-16-ab6cfc12bfbb,ok,3,"""0.00112–0.01745 items L^-1"""
+extraction,EXT-16-b9e6184af520,ok,1,null
+extraction,EXT-16-b9e6184af520,ok,2,null
+extraction,EXT-16-b9e6184af520,ok,3,null
+extraction,EXT-16-c637cc006e74,ok,1,"""Cross-sectional observational (environmental) study"""
+extraction,EXT-16-c637cc006e74,ok,2,"""Cross-sectional observational study"""
+extraction,EXT-16-c637cc006e74,ok,3,"""Cross-sectional observational environmental study"""
+extraction,EXT-16-d4b44c07ae75,ok,1,500.0
+extraction,EXT-16-d4b44c07ae75,ok,2,500.0
+extraction,EXT-16-d4b44c07ae75,ok,3,500.0
+extraction,EXT-16-e3d5c0ca1577,ok,1,null
+extraction,EXT-16-e3d5c0ca1577,ok,2,null
+extraction,EXT-16-e3d5c0ca1577,ok,3,null
+extraction,EXT-16-f212bf9b40af,ok,1,null
+extraction,EXT-16-f212bf9b40af,ok,2,null
+extraction,EXT-16-f212bf9b40af,ok,3,null
+extraction,EXT-17-040bf7170929,ok,1,2023.0
+extraction,EXT-17-040bf7170929,ok,2,2023.0
+extraction,EXT-17-040bf7170929,ok,3,2023.0
+extraction,EXT-17-045efa78939c,ok,1,"""60% (ChatGPT 3.5 turbo); 80% (ChatGPT 4.0)"""
+extraction,EXT-17-045efa78939c,ok,2,"""60% (ChatGPT 3.5 turbo), 80% (ChatGPT 4.0)"""
+extraction,EXT-17-045efa78939c,ok,3,"""60, 80"""
+extraction,EXT-17-0c1b42d057bf,ok,1,null
+extraction,EXT-17-0c1b42d057bf,ok,2,null
+extraction,EXT-17-0c1b42d057bf,ok,3,null
+extraction,EXT-17-0fbffdf1c610,ok,1,"""benchmark (evaluation) study"""
+extraction,EXT-17-0fbffdf1c610,ok,2,"""benchmark study"""
+extraction,EXT-17-0fbffdf1c610,ok,3,"""Benchmarking study (benchmark development and evaluation)"""
+extraction,EXT-17-14c1e918507b,ok,1,"""83.8%"""
+extraction,EXT-17-14c1e918507b,ok,2,83.8
+extraction,EXT-17-14c1e918507b,ok,3,83.8
+extraction,EXT-17-20896bb279e5,ok,1,2024.0
+extraction,EXT-17-20896bb279e5,ok,2,2024.0
+extraction,EXT-17-20896bb279e5,ok,3,2024.0
+extraction,EXT-17-21ce262e4bfb,ok,1,null
+extraction,EXT-17-21ce262e4bfb,ok,2,null
+extraction,EXT-17-21ce262e4bfb,ok,3,null
+extraction,EXT-17-30eba066ff52,ok,1,null
+extraction,EXT-17-30eba066ff52,ok,2,null
+extraction,EXT-17-30eba066ff52,ok,3,null
+extraction,EXT-17-31deb1c994a8,ok,1,null
+extraction,EXT-17-31deb1c994a8,ok,2,null
+extraction,EXT-17-31deb1c994a8,ok,3,null
+extraction,EXT-17-36be32938778,ok,1,52.4
+extraction,EXT-17-36be32938778,ok,2,52.4
+extraction,EXT-17-36be32938778,ok,3,52.4
+extraction,EXT-17-3a6dbfcccc1c,ok,1,null
+extraction,EXT-17-3a6dbfcccc1c,ok,2,null
+extraction,EXT-17-3a6dbfcccc1c,ok,3,null
+extraction,EXT-17-3c98fcef8d5d,ok,1,null
+extraction,EXT-17-3c98fcef8d5d,ok,2,null
+extraction,EXT-17-3c98fcef8d5d,ok,3,null
+extraction,EXT-17-4e6dad4d32cd,ok,1,"""knowledge extraction; understanding; reasoning"""
+extraction,EXT-17-4e6dad4d32cd,ok,2,"""benchmarking/evaluation"""
+extraction,EXT-17-4e6dad4d32cd,ok,3,"""knowledge extraction; understanding; reasoning"""
+extraction,EXT-17-5541abd82342,ok,1,null
+extraction,EXT-17-5541abd82342,ok,2,null
+extraction,EXT-17-5541abd82342,ok,3,"""Large Language Models"""
+extraction,EXT-17-5b47bea61daa,ok,1,"""73.4%"""
+extraction,EXT-17-5b47bea61daa,ok,2,73.4
+extraction,EXT-17-5b47bea61daa,ok,3,73.4
+extraction,EXT-17-5d8bca74139f,ok,1,2024.0
+extraction,EXT-17-5d8bca74139f,ok,2,2024.0
+extraction,EXT-17-5d8bca74139f,ok,3,null
+extraction,EXT-17-5e87c52d978c,ok,1,"""Benchmark development and evaluation (creation of a comparative reasoning benchmark for multimodal LLMs and evaluation of models)"""
+extraction,EXT-17-5e87c52d978c,ok,2,"""Benchmark development and evaluation (creation of a comparative reasoning benchmark/dataset and its evaluation)"""
+extraction,EXT-17-5e87c52d978c,ok,3,"""Benchmark/dataset creation and evaluation"""
+extraction,EXT-17-6b42f7293fff,ok,1,null
+extraction,EXT-17-6b42f7293fff,ok,2,null
+extraction,EXT-17-6b42f7293fff,ok,3,null
+extraction,EXT-17-7ba180e058c8,ok,1,null
+extraction,EXT-17-7ba180e058c8,ok,2,null
+extraction,EXT-17-7ba180e058c8,ok,3,null
+extraction,EXT-17-83d2175ce09e,ok,1,"""Benchmark study (dataset/benchmark development and evaluation of large language models)"""
+extraction,EXT-17-83d2175ce09e,ok,2,"""benchmark development and evaluation"""
+extraction,EXT-17-83d2175ce09e,ok,3,"""Benchmark/dataset development and evaluation (benchmarking study)"""
+extraction,EXT-17-857d63e248a5,ok,1,2022.0
+extraction,EXT-17-857d63e248a5,ok,2,2022.0
+extraction,EXT-17-857d63e248a5,ok,3,2022.0
+extraction,EXT-17-af425e72c6c2,ok,1,null
+extraction,EXT-17-af425e72c6c2,ok,2,null
+extraction,EXT-17-af425e72c6c2,ok,3,null
+extraction,EXT-17-da37c83eff29,ok,1,12.0
+extraction,EXT-17-da37c83eff29,ok,2,12.0
+extraction,EXT-17-da37c83eff29,ok,3,12.0
+extraction,EXT-17-f7260285cb37,ok,1,"""commonsense reasoning"""
+extraction,EXT-17-f7260285cb37,ok,2,"""commonsense reasoning"""
+extraction,EXT-17-f7260285cb37,ok,3,"""commonsense reasoning (multimodal)"""
+extraction,EXT-17-f9789250f2a9,ok,1,32.0
+extraction,EXT-17-f9789250f2a9,ok,2,32.0
+extraction,EXT-17-f9789250f2a9,ok,3,32.0
+extraction,EXT-17-fab7a3872517,ok,1,"""BenchMAX"""
+extraction,EXT-17-fab7a3872517,ok,2,null
+extraction,EXT-17-fab7a3872517,ok,3,"""BenchMAX"""
+extraction,EXT-17-faf6f36dd37b,ok,1,50.0
+extraction,EXT-17-faf6f36dd37b,ok,2,null
+extraction,EXT-17-faf6f36dd37b,ok,3,null
+extraction,EXT-18-120eab69b437,ok,1,null
+extraction,EXT-18-120eab69b437,ok,2,null
+extraction,EXT-18-120eab69b437,ok,3,null
+extraction,EXT-18-1aeb8e45f3c6,ok,1,null
+extraction,EXT-18-1aeb8e45f3c6,ok,2,null
+extraction,EXT-18-1aeb8e45f3c6,ok,3,null
+extraction,EXT-18-1b233efca9cd,ok,1,"""COFEL-AVG"""
+extraction,EXT-18-1b233efca9cd,ok,2,"""COFEL-AVG"""
+extraction,EXT-18-1b233efca9cd,ok,3,"""COFEL-AVG"""
+extraction,EXT-18-26c34a1bf582,ok,1,75.0
+extraction,EXT-18-26c34a1bf582,ok,2,75.0
+extraction,EXT-18-26c34a1bf582,ok,3,75.0
+extraction,EXT-18-2914316de5c9,ok,1,98.0
+extraction,EXT-18-2914316de5c9,ok,2,98.0
+extraction,EXT-18-2914316de5c9,ok,3,98.0
+extraction,EXT-18-4b24eb08a6f9,ok,1,2.348
+extraction,EXT-18-4b24eb08a6f9,ok,2,2.348
+extraction,EXT-18-4b24eb08a6f9,ok,3,2.348
+extraction,EXT-18-611cd56ca8b8,ok,1,null
+extraction,EXT-18-611cd56ca8b8,ok,2,null
+extraction,EXT-18-611cd56ca8b8,ok,3,null
+extraction,EXT-18-65d4deb55bc2,ok,1,99.0
+extraction,EXT-18-65d4deb55bc2,ok,2,99.0
+extraction,EXT-18-65d4deb55bc2,ok,3,99.0
+extraction,EXT-18-65ea000f0e96,ok,1,null
+extraction,EXT-18-65ea000f0e96,ok,2,null
+extraction,EXT-18-65ea000f0e96,ok,3,null
+extraction,EXT-18-675c45865d77,ok,1,"""realistic mobile sensing data"""
+extraction,EXT-18-675c45865d77,ok,2,null
+extraction,EXT-18-675c45865d77,ok,3,"""realistic mobile sensing data"""
+extraction,EXT-18-7527d7a9c76c,ok,1,null
+extraction,EXT-18-7527d7a9c76c,ok,2,null
+extraction,EXT-18-7527d7a9c76c,ok,3,null
+extraction,EXT-18-75abe5245cc0,ok,1,null
+extraction,EXT-18-75abe5245cc0,ok,2,null
+extraction,EXT-18-75abe5245cc0,ok,3,null
+extraction,EXT-18-79c063676f0b,ok,1,"""federated learning"""
+extraction,EXT-18-79c063676f0b,ok,2,"""federated learning"""
+extraction,EXT-18-79c063676f0b,ok,3,"""Federated learning"""
+extraction,EXT-18-af46cc3a1c21,ok,1,null
+extraction,EXT-18-af46cc3a1c21,ok,2,null
+extraction,EXT-18-af46cc3a1c21,ok,3,null
+extraction,EXT-18-af4b6db5de46,ok,1,null
+extraction,EXT-18-af4b6db5de46,ok,2,null
+extraction,EXT-18-af4b6db5de46,ok,3,null
+extraction,EXT-18-c69ce6d88294,ok,1,99.0
+extraction,EXT-18-c69ce6d88294,ok,2,99.0
+extraction,EXT-18-c69ce6d88294,ok,3,99.0
+extraction,EXT-18-caca9b5ae1d1,ok,1,"""multi-key homomorphic encryption (xMK-CKKS / MK-CKKS)"""
+extraction,EXT-18-caca9b5ae1d1,ok,2,"""multi-key homomorphic encryption (MK-CKKS / xMK-CKKS)"""
+extraction,EXT-18-caca9b5ae1d1,ok,3,"""multi-key homomorphic encryption (xMK-CKKS / MK-CKKS)"""
+extraction,EXT-18-dba4c80fb377,ok,1,"""Methodological study (computational/algorithm development with experimental evaluation)"""
+extraction,EXT-18-dba4c80fb377,ok,2,"""Methodological study (model/algorithm development with simulation/experimental evaluation)"""
+extraction,EXT-18-dba4c80fb377,ok,3,"""Methodological study (algorithm/model development with computational/simulation evaluation)"""
+extraction,EXT-18-e61d0ebdecc3,ok,1,"""Methodological/modeling study (algorithm development and validation using real-world experiments)"""
+extraction,EXT-18-e61d0ebdecc3,ok,2,"""Algorithm development and validation (machine learning / federated learning methodological study)"""
+extraction,EXT-18-e61d0ebdecc3,ok,3,"""Methodological study — algorithm development and validation (computational/real-world experiments)"""
+extraction,EXT-18-eb071316f898,ok,1,127.0
+extraction,EXT-18-eb071316f898,ok,2,127.0
+extraction,EXT-18-eb071316f898,ok,3,127.0
+extraction,EXT-18-f48e6ab53d69,ok,1,"""≤ 10"""
+extraction,EXT-18-f48e6ab53d69,ok,2,"""≤10"""
+extraction,EXT-18-f48e6ab53d69,ok,3,10.0
+extraction,EXT-18-f77a908ffbd4,ok,1,"""80% (MINIST) and 12.7% (Fashion-MNIST)"""
+extraction,EXT-18-f77a908ffbd4,ok,2,"""80 and 12.7"""
+extraction,EXT-18-f77a908ffbd4,ok,3,80.0
+extraction,EXT-18-ff41b831c9a2,ok,1,"""50 to 100"""
+extraction,EXT-18-ff41b831c9a2,ok,2,"""50 to 100"""
+extraction,EXT-18-ff41b831c9a2,ok,3,"""50 to 100"""
+extraction,EXT-18-ffecb9c8a28e,ok,1,null
+extraction,EXT-18-ffecb9c8a28e,ok,2,null
+extraction,EXT-18-ffecb9c8a28e,ok,3,null
+extraction,EXT-19-1897d3b7b131,ok,1,649.0
+extraction,EXT-19-1897d3b7b131,ok,2,649.0
+extraction,EXT-19-1897d3b7b131,ok,3,649.0
+extraction,EXT-19-1e3fe1e0608b,ok,1,null
+extraction,EXT-19-1e3fe1e0608b,ok,2,null
+extraction,EXT-19-1e3fe1e0608b,ok,3,null
+extraction,EXT-19-2c34e35de393,ok,1,"""Qualitative, comparative methodology (qualitative comparative analysis of literature review and four country case studies)"""
+extraction,EXT-19-2c34e35de393,ok,2,"""Qualitative, comparative (literature review and analysis of four country case studies)"""
+extraction,EXT-19-2c34e35de393,ok,3,"""qualitative, comparative (qualitative comparative case study analysis)"""
+extraction,EXT-19-36f4b747fb90,ok,1,"""Document analysis"""
+extraction,EXT-19-36f4b747fb90,ok,2,"""Document analysis"""
+extraction,EXT-19-36f4b747fb90,ok,3,"""document analysis"""
+extraction,EXT-19-4cba7b3f473c,ok,1,null
+extraction,EXT-19-4cba7b3f473c,ok,2,null
+extraction,EXT-19-4cba7b3f473c,ok,3,null
+extraction,EXT-19-4d13b5b029de,ok,1,450.0
+extraction,EXT-19-4d13b5b029de,ok,2,450.0
+extraction,EXT-19-4d13b5b029de,ok,3,450.0
+extraction,EXT-19-85574fc4eded,ok,1,null
+extraction,EXT-19-85574fc4eded,ok,2,null
+extraction,EXT-19-85574fc4eded,ok,3,null
+extraction,EXT-19-ab39cedf492a,ok,1,"""Conceptual/theoretical study (ethical analysis and framework development)"""
+extraction,EXT-19-ab39cedf492a,ok,2,"""Conceptual/theoretical study — ethics analysis/perspective"""
+extraction,EXT-19-ab39cedf492a,ok,3,"""Conceptual/ethical analysis (theoretical study)"""
+extraction,EXT-19-b14570013883,ok,1,"""Narrative review / conceptual study"""
+extraction,EXT-19-b14570013883,ok,2,"""Narrative review"""
+extraction,EXT-19-b14570013883,ok,3,"""Narrative review"""
+extraction,EXT-19-b665d8944f46,ok,1,12.0
+extraction,EXT-19-b665d8944f46,ok,2,12.0
+extraction,EXT-19-b665d8944f46,ok,3,12.0
+extraction,EXT-19-c64e209455ed,ok,1,"""Normative legal and ethical (conceptual/theoretical) analysis"""
+extraction,EXT-19-c64e209455ed,ok,2,"""Legal and ethical analysis (conceptual/policy review)"""
+extraction,EXT-19-c64e209455ed,ok,3,"""Theoretical/conceptual (normative legal and ethical analysis; literature/international policy review)"""
+extraction,EXT-19-c8215e1d525f,ok,1,"""Business / commercial decision-making"""
+extraction,EXT-19-c8215e1d525f,ok,2,"""Business / Commercial decision-making"""
+extraction,EXT-19-c8215e1d525f,ok,3,"""Business / Commercial decision-making"""
+extraction,EXT-19-ef5807ea7ad9,ok,1,4.0
+extraction,EXT-19-ef5807ea7ad9,ok,2,4.0
+extraction,EXT-19-ef5807ea7ad9,ok,3,4.0
+extraction,EXT-20-0891cb31ee3c,ok,1,"""98.21%"""
+extraction,EXT-20-0891cb31ee3c,ok,2,98.21
+extraction,EXT-20-0891cb31ee3c,ok,3,"""98.21%"""
+extraction,EXT-20-08ee85189060,ok,1,null
+extraction,EXT-20-08ee85189060,ok,2,null
+extraction,EXT-20-08ee85189060,ok,3,null
+extraction,EXT-20-103fb71f072b,ok,1,"""Methodological study — model development and experimental evaluation (CNN development and comparison)"""
+extraction,EXT-20-103fb71f072b,ok,2,"""Model development and experimental evaluation (machine learning / computational study)"""
+extraction,EXT-20-103fb71f072b,ok,3,"""Algorithm/model development with experimental evaluation"""
+extraction,EXT-20-1b5b653bf83a,ok,1,"""Industrial robotics (manufacturing/industrial automation)"""
+extraction,EXT-20-1b5b653bf83a,ok,2,"""Industrial robotics"""
+extraction,EXT-20-1b5b653bf83a,ok,3,"""Industrial robotics"""
+extraction,EXT-20-23ea5387230c,ok,1,"""99.44-100"""
+extraction,EXT-20-23ea5387230c,ok,2,"""99.44-100%"""
+extraction,EXT-20-23ea5387230c,ok,3,"""99.44% to 100%"""
+extraction,EXT-20-276d5873c536,ok,1,"""over 99.7%"""
+extraction,EXT-20-276d5873c536,ok,2,99.7
+extraction,EXT-20-276d5873c536,ok,3,99.7
+extraction,EXT-20-2d35bace74a1,ok,1,null
+extraction,EXT-20-2d35bace74a1,ok,2,null
+extraction,EXT-20-2d35bace74a1,ok,3,null
+extraction,EXT-20-31761376143a,ok,1,null
+extraction,EXT-20-31761376143a,ok,2,null
+extraction,EXT-20-31761376143a,ok,3,null
+extraction,EXT-20-346143549d72,ok,1,null
+extraction,EXT-20-346143549d72,ok,2,null
+extraction,EXT-20-346143549d72,ok,3,null
+extraction,EXT-20-4306c89ad8cf,ok,1,null
+extraction,EXT-20-4306c89ad8cf,ok,2,288.0
+extraction,EXT-20-4306c89ad8cf,ok,3,288.0
+extraction,EXT-20-52f4aaf2db73,ok,1,"""87%, 92%, 94%"""
+extraction,EXT-20-52f4aaf2db73,ok,2,"""0.87; 0.92; 0.94"""
+extraction,EXT-20-52f4aaf2db73,ok,3,"""87%, 92%, 94%"""
+extraction,EXT-20-58a67f82d774,ok,1,720.0
+extraction,EXT-20-58a67f82d774,ok,2,720.0
+extraction,EXT-20-58a67f82d774,ok,3,720.0
+extraction,EXT-20-6c9d3793d3a8,ok,1,4.0
+extraction,EXT-20-6c9d3793d3a8,ok,2,null
+extraction,EXT-20-6c9d3793d3a8,ok,3,null
+extraction,EXT-20-7ef3ca556a5b,ok,1,100.0
+extraction,EXT-20-7ef3ca556a5b,ok,2,100.0
+extraction,EXT-20-7ef3ca556a5b,ok,3,100.0
+extraction,EXT-20-8547dcc0ba34,ok,1,400.0
+extraction,EXT-20-8547dcc0ba34,ok,2,400.0
+extraction,EXT-20-8547dcc0ba34,ok,3,400.0
+extraction,EXT-20-9e7600ebbf8d,ok,1,98.85
+extraction,EXT-20-9e7600ebbf8d,ok,2,98.85
+extraction,EXT-20-9e7600ebbf8d,ok,3,98.85
+extraction,EXT-20-a1db83265ed8,ok,1,null
+extraction,EXT-20-a1db83265ed8,ok,2,null
+extraction,EXT-20-a1db83265ed8,ok,3,null
+extraction,EXT-20-b63da89f49c8,ok,1,null
+extraction,EXT-20-b63da89f49c8,ok,2,null
+extraction,EXT-20-b63da89f49c8,ok,3,null
+extraction,EXT-20-bd2214c481f2,ok,1,null
+extraction,EXT-20-bd2214c481f2,ok,2,null
+extraction,EXT-20-bd2214c481f2,ok,3,null
+extraction,EXT-20-d4dcbb8339ed,ok,1,null
+extraction,EXT-20-d4dcbb8339ed,ok,2,null
+extraction,EXT-20-d4dcbb8339ed,ok,3,null
+extraction,EXT-20-da471e895fcf,ok,1,null
+extraction,EXT-20-da471e895fcf,ok,2,null
+extraction,EXT-20-da471e895fcf,ok,3,null
+extraction,EXT-20-dbfa0df4c4df,ok,1,null
+extraction,EXT-20-dbfa0df4c4df,ok,2,null
+extraction,EXT-20-dbfa0df4c4df,ok,3,null
+extraction,EXT-20-e18d16e94563,ok,1,52.0
+extraction,EXT-20-e18d16e94563,ok,2,52.0
+extraction,EXT-20-e18d16e94563,ok,3,null
+extraction,EXT-20-f21f62fc91c0,ok,1,null
+extraction,EXT-20-f21f62fc91c0,ok,2,null
+extraction,EXT-20-f21f62fc91c0,ok,3,null
+extraction,EXT-20-f6b7cda28f67,ok,1,null
+extraction,EXT-20-f6b7cda28f67,ok,2,null
+extraction,EXT-20-f6b7cda28f67,ok,3,null

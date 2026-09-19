@@ -1,0 +1,25 @@
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[project]
+name = "anonymous-evidence-quality-artifact"
+version = "1.0.0"
+description = "Double-anonymous reproducibility artifact for a ground-truth-free data-quality audit"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "matplotlib>=3.9",
+  "numpy>=2.0",
+  "pandas>=3.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+
+[tool.hatch.build.targets.wheel]
+packages = []
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"

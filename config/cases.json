@@ -1,0 +1,960 @@
+{
+  "artifact_scope": "Only fields required to audit historical extraction-schema coverage are retained.",
+  "cases": [
+    {
+      "case_id": 1,
+      "historical_extraction": {
+        "fields": [
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "study_design"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "country"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "population"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "intervention"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "comparison"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "outcome"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "sample_size"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "effect_size"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "ci_lower"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "ci_upper"
+          }
+        ]
+      },
+      "slug": "nurse_staffing_mortality"
+    },
+    {
+      "case_id": 2,
+      "historical_extraction": {
+        "fields": [
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "study_design"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "country"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "population"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "intervention"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "outcome"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "sample_size"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "effect_size"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "ci_lower"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "ci_upper"
+          }
+        ]
+      },
+      "slug": "mindfulness_anxiety"
+    },
+    {
+      "case_id": 3,
+      "historical_extraction": {
+        "fields": [
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "study_design"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "country"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "drug"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "outcome"
+          },
+          {
+            "audit_class": "other_numeric",
+            "declared_type": "numeric",
+            "name": "follow_up_years"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "sample_size"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "hazard_ratio"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "ci_lower"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "ci_upper"
+          }
+        ]
+      },
+      "slug": "glp1_cardiovascular"
+    },
+    {
+      "case_id": 4,
+      "historical_extraction": {
+        "fields": [
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "study_design"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "imaging_modality"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "ai_model_type"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "task"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "sensitivity"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "specificity"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "auc"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "sample_size"
+          }
+        ]
+      },
+      "slug": "ai_radiology_diagnosis"
+    },
+    {
+      "case_id": 5,
+      "historical_extraction": {
+        "fields": [
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "study_design"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "country"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "programme"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "outcome"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "sample_size"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "effect_size"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "ci_lower"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "ci_upper"
+          }
+        ]
+      },
+      "slug": "cash_transfers_education"
+    },
+    {
+      "case_id": 6,
+      "historical_extraction": {
+        "fields": [
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "study_design"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "country"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "platform"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "outcome"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "age_group"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "sample_size"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "effect_size"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "ci_lower"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "ci_upper"
+          }
+        ]
+      },
+      "slug": "social_media_mental_health"
+    },
+    {
+      "case_id": 7,
+      "historical_extraction": {
+        "fields": [
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "study_design"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "country"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "programme_type"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "outcome"
+          },
+          {
+            "audit_class": "other_numeric",
+            "declared_type": "numeric",
+            "name": "follow_up_months"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "sample_size"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "recidivism_rate_treatment"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "recidivism_rate_control"
+          }
+        ]
+      },
+      "slug": "restorative_justice_recidivism"
+    },
+    {
+      "case_id": 8,
+      "historical_extraction": {
+        "fields": [
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "study_design"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "country"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "sector"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "gap_measure"
+          },
+          {
+            "audit_class": "other_numeric",
+            "declared_type": "numeric",
+            "name": "year"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "gap_percent"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "sample_size"
+          }
+        ]
+      },
+      "slug": "gender_pay_gap"
+    },
+    {
+      "case_id": 9,
+      "historical_extraction": {
+        "fields": [
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "study_design"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "country"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "system_name"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "subject"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "grade_level"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "sample_size"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "effect_size"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "ci_lower"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "ci_upper"
+          }
+        ]
+      },
+      "slug": "intelligent_tutoring_scores"
+    },
+    {
+      "case_id": 10,
+      "historical_extraction": {
+        "fields": [
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "study_design"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "country"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "game_type"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "outcome_measure"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "education_level"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "sample_size"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "effect_size"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "ci_lower"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "ci_upper"
+          }
+        ]
+      },
+      "slug": "game_based_learning_motivation"
+    },
+    {
+      "case_id": 11,
+      "historical_extraction": {
+        "fields": [
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "study_design"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "country"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "school_level"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "class_size_treatment"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "class_size_control"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "sample_size"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "effect_size"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "ci_lower"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "ci_upper"
+          }
+        ]
+      },
+      "slug": "class_size_achievement"
+    },
+    {
+      "case_id": 12,
+      "historical_extraction": {
+        "fields": [
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "study_design"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "country"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "llm_tool"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "use_case"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "discipline"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "sample_size"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "outcome_direction"
+          }
+        ]
+      },
+      "slug": "llm_higher_education"
+    },
+    {
+      "case_id": 13,
+      "historical_extraction": {
+        "fields": [
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "study_design"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "country"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "mpa_type"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "species_group"
+          },
+          {
+            "audit_class": "other_numeric",
+            "declared_type": "numeric",
+            "name": "years_protected"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "sample_size"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "effect_size"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "ci_lower"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "ci_upper"
+          }
+        ]
+      },
+      "slug": "marine_protected_areas"
+    },
+    {
+      "case_id": 14,
+      "historical_extraction": {
+        "fields": [
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "study_design"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "country"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "forest_type"
+          },
+          {
+            "audit_class": "other_numeric",
+            "declared_type": "numeric",
+            "name": "age_years"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "carbon_stock_tC_ha"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "sample_size"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "effect_size"
+          }
+        ]
+      },
+      "slug": "reforestation_carbon"
+    },
+    {
+      "case_id": 15,
+      "historical_extraction": {
+        "fields": [
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "study_design"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "country"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "fuel_type"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "outcome"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "sample_size"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "effect_size"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "ci_lower"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "ci_upper"
+          }
+        ]
+      },
+      "slug": "indoor_air_pollution_health"
+    },
+    {
+      "case_id": 16,
+      "historical_extraction": {
+        "fields": [
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "study_design"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "country"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "water_body_type"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "polymer_type"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "concentration_items_L"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "sample_size"
+          }
+        ]
+      },
+      "slug": "microplastics_freshwater"
+    },
+    {
+      "case_id": 17,
+      "historical_extraction": {
+        "fields": [
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "study_design"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "model_name"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "benchmark"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "task_type"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "accuracy_percent"
+          },
+          {
+            "audit_class": "other_numeric",
+            "declared_type": "numeric",
+            "name": "parameter_count_B"
+          },
+          {
+            "audit_class": "other_numeric",
+            "declared_type": "numeric",
+            "name": "year"
+          }
+        ]
+      },
+      "slug": "llm_reasoning_benchmarks"
+    },
+    {
+      "case_id": 18,
+      "historical_extraction": {
+        "fields": [
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "study_design"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "aggregation_algorithm"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "privacy_mechanism"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "dataset"
+          },
+          {
+            "audit_class": "other_numeric",
+            "declared_type": "numeric",
+            "name": "n_clients"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "accuracy_percent"
+          },
+          {
+            "audit_class": "other_numeric",
+            "declared_type": "numeric",
+            "name": "privacy_budget_epsilon"
+          }
+        ]
+      },
+      "slug": "federated_learning_privacy"
+    },
+    {
+      "case_id": 19,
+      "historical_extraction": {
+        "fields": [
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "study_design"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "ethical_framework"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "application_domain"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "methodology"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "key_principle"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "sample_size"
+          }
+        ]
+      },
+      "slug": "ai_ethics_autonomous_systems"
+    },
+    {
+      "case_id": 20,
+      "historical_extraction": {
+        "fields": [
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "study_design"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "industry_sector"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "dl_architecture"
+          },
+          {
+            "audit_class": "categorical",
+            "declared_type": "categorical",
+            "name": "fault_type"
+          },
+          {
+            "audit_class": "other_numeric",
+            "declared_type": "numeric",
+            "name": "dataset_size"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "accuracy_percent"
+          },
+          {
+            "audit_class": "potentially_synthesis_critical",
+            "declared_type": "numeric",
+            "name": "f1_score"
+          }
+        ]
+      },
+      "slug": "deep_learning_predictive_maintenance"
+    }
+  ]
+}
