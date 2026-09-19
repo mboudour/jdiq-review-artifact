@@ -235,7 +235,12 @@ def main() -> None:
     png_path.parent.mkdir(parents=True, exist_ok=True)
     pdf_path.parent.mkdir(parents=True, exist_ok=True)
     fig.savefig(png_path, dpi=240, bbox_inches="tight", facecolor="white")
-    fig.savefig(pdf_path, bbox_inches="tight", facecolor="white")
+    fig.savefig(
+        pdf_path,
+        bbox_inches="tight",
+        facecolor="white",
+        metadata={"CreationDate": None, "ModDate": None, "Creator": "Matplotlib"},
+    )
     plt.close(fig)
 
 

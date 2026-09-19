@@ -57,9 +57,9 @@
       "sha256": "e7d4860433134ea2926bdda1f6f806c26fc7cd56f9ff226fb4aa7c0f97c86a37"
     },
     {
-      "bytes": 43127,
+      "bytes": 43061,
       "path": "results/figures/denominator_ledger.pdf",
-      "sha256": "ded03135a55e43d3f21aed867f49f89a88b3defecf396f26d344bd936e34830c"
+      "sha256": "67c00566df8e0c433fd0c753979a1ef52810dcbadffa743f204033656d240b49"
     },
     {
       "bytes": 214445,
@@ -122,9 +122,9 @@
       "sha256": "01618428ebcea73b77e2f2ac2947c7d6fef9f6e1ccc1b656b0111945a8feff28"
     },
     {
-      "bytes": 8152,
+      "bytes": 8266,
       "path": "scripts/build_denominator_figure.py",
-      "sha256": "1a5d13dd2419e965f59678f5c79520daca652c26f55f11a029875218aae14301"
+      "sha256": "95bd9a8e60db5a56b7b6209531c81ef743b0e3d56b446c22ce59e2c77b565bc9"
     },
     {
       "bytes": 2915,
